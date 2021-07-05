@@ -1,0 +1,24 @@
+간염,종양,빈혈및기타
+단백면역화학
+약물및중금속
+응급검사
+일반혈액
+특수화학검사
+혈액은행검사
+
+
+2개 차이
+1. Cuture 일반미생물 
+- Sputum
+- Urine (Void)
+2. Gram Stain 일반미생물
+- Sputum
+- Urine (Void)
+ 
+갑상선종양검사 3> 9 6줄 추가
+Micro Alb Ratio 1> 2 1출 추가
+Blood(Sod.citrate)	혈액응고	PT- sec 1> 2 1출 추가
+
+
+
+검체번호,접수일,의뢰일,결과보고일,의사ID,검사자ID

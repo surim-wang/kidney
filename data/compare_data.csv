@@ -1,0 +1,251 @@
+검체	검체검사결과	검사명	최저참고치	최고참고치	단위	검사분류	검색명	비고	비고2
+B(SST)	Hormone	Free T4	0.7	1.48	ng/dL	"호르몬,종양표지자검사"	Free T4	혈청검사	
+B(SST)	Hormone	Microsome-Ab	0	60	U/ml				
+B(SST)	Hormone	T3	58	159	ng/dL	"호르몬,종양표지자검사"	T3	혈청검사	
+B(SST)	Hormone	TSH	0.35	4.94	uIU/mL	"호르몬,종양표지자검사"	TSH	혈청검사	
+B(SST)	Hormone	TSH-Receptor-Ab	0	1	IU/L 1.0-1.5grayzone(20100510)				
+B(SST)	Hormone	Tg-Ab	0	60	U/ml				
+B(SST)	"간염,종양,빈혈및기타"	Anti-ds-DNA	0	10	IU/ml				
+B(SST)	"간염,종양,빈혈및기타"	Ferritin	15	332	ng/ml	특수화학검사	Ferritin	참고치 상이	
+B(SST)	"간염,종양,빈혈및기타"	Folate	3	17	ng/ml	"호르몬,종양표지자검사"	Folate	참고치 상이	Reticulocytes Panel
+B(SST)	"간염,종양,빈혈및기타"	Vitamin B12	200	950	pg/ml	"호르몬,종양표지자검사"	Vitamine B12	"검사명, 검색명 상이"	
+B(SST)	기타검사2	HSV 1-igG	Neg	0.9					
+B(SST)	기타검사2	HSV 1-igM		Not detected					
+B(SST)	단백면역화학	C3	90	180	mg/dL	일반화학(1)	C3	참고치 상이	
+B(SST)	단백면역화학	C4	10	40	mg/dL	일반화학(1)	C4	참고치 상이	
+B(SST)	단백면역화학	IgA	70	400	md/dL	일반화학(1)	Immunoglobulin A	참고치 상이	동의어 참고
+B(SST)	단백면역화학	IgG	700	1600	md/dL	일반화학(1)	Immunoglobulin G	참고치 상이	
+B(SST)	단백면역화학	IgM	40	230	md/dL	일반화학(1)	Immunoglobulin M	참고치 상이	
+B(SST)	혈청	"ANA,titer"		Neg(1:40)		혈청검사	Antinuclear Ab titer(FANA)	 확인 필요 	
+B(혈액배양1쌍)	혈액배양	Blood Gram/Micro							
+B(혈액배양1쌍)	혈액배양	Culture							
+Blood(EDTA)	"간염,종양,빈혈및기타"	Cyclosporine	150	300	ng/ml	특수화학검사	Cyclosporine		
+Blood(EDTA)	단백면역화학	Haptoglobi	30	200	mg/dL	단백면역화학	Haptoglobi	참고치 상이	
+Blood(EDTA)	약물및중금속	Tacrolimus(농도)	5	20	ng/mL	약물및중금속	Tacrolimus (FK-506)(serum level)	" Tacrolimus(24시간 신속검사,소아진단검사의학과시행)"	
+Blood(EDTA)	응급검사	"ANC,응급"	1500	7500	/mm^2				
+Blood(EDTA)	응급검사	Ab. Lymphoid cell							
+Blood(EDTA)	응급검사	Atypical lymphocyte			%				
+Blood(EDTA)	응급검사	Band. neutrophil	0	6					
+Blood(EDTA)	응급검사	Baseophil	0	1	%				
+Blood(EDTA)	응급검사	Blast			%				
+Blood(EDTA)	응급검사	Eosinophil	1	10	%				
+Blood(EDTA)	응급검사	"HB-E,응급"	13	17	g/dL				
+Blood(EDTA)	응급검사	"HCT-E,응급"	39	52	%				
+Blood(EDTA)	응급검사	Immature cell							
+Blood(EDTA)	응급검사	LUC							
+Blood(EDTA)	응급검사	Lymphyocyte	20.5	51.1	%				
+Blood(EDTA)	응급검사	"MCH,응급"	27	33	pg				
+Blood(EDTA)	응급검사	"MCH-E,응급"	27	33	pg				
+Blood(EDTA)	응급검사	"MCHC,응급"	32	36	g/dL				
+Blood(EDTA)	응급검사	"MCHC-E,응급"	32	36	g/dL				
+Blood(EDTA)	응급검사	"MCV,응급"	81	96	fL				
+Blood(EDTA)	응급검사	"MCV-E,응급"	81	96	fL				
+Blood(EDTA)	응급검사	Metamyelocyte			%				
+Blood(EDTA)	응급검사	Monocyte	1.7	9.3	%				
+Blood(EDTA)	응급검사	Myelocyte			%				
+Blood(EDTA)	응급검사	NRBC							
+Blood(EDTA)	응급검사	"PDW,응급"	0	65	%				
+Blood(EDTA)	응급검사	"PDW-E,응급"	0	65	fL				
+Blood(EDTA)	응급검사	"PLT,응급"	130	400	*10^3/ul				
+Blood(EDTA)	응급검사	"PLT-E,응급"	130	400	*10^3/ul				
+Blood(EDTA)	응급검사	Promyelocyte			%				
+Blood(EDTA)	응급검사	"RBC-E,응급"	4.2	6.3	*10^6/ul				
+Blood(EDTA)	응급검사	"RDW,응급"	11.5	14.5	%				
+Blood(EDTA)	응급검사	"RDW-E,응급"	11.5	14.5	%				
+Blood(EDTA)	응급검사	Seg. neutrophil	42.2	75.2	%				
+Blood(EDTA)	응급검사	"WBC-E,응급"	4	10	*10^3/ul				
+Blood(EDTA)	일반혈액	ANC	1500	7500	/mm^2				
+Blood(EDTA)	일반혈액	"ANC,응급"	1500	7500	/mm^2				
+Blood(EDTA)	일반혈액	Abnoormal.lympho			%				
+Blood(EDTA)	일반혈액	Atypical lymphocyte			%				
+Blood(EDTA)	일반혈액	Baseophil	0	1	%				
+Blood(EDTA)	일반혈액	ESR	0	9	mm/hr	일반혈액	ESR	"M <= 9, F<= 20"	
+Blood(EDTA)	일반혈액	Eosinophil	1	10	%				
+Blood(EDTA)	일반혈액	"HB-E,응급"	13	17	g/dL				
+Blood(EDTA)	일반혈액	"HCT-E,응급"	39	52	%				
+Blood(EDTA)	일반혈액	Hb	13	17	g/dL	일반혈액	Hb	참고치 다양	
+Blood(EDTA)	일반혈액	Hct	39	52	%	일반혈액	Hct	참고치 다양	
+Blood(EDTA)	일반혈액	Lymphocyte	20.5	51.1	%				
+Blood(EDTA)	일반혈액	MCH	27	33	pg	일반혈액	MCH	참고치 다양	
+Blood(EDTA)	일반혈액	"MCH,응급"	27	33	pg				
+Blood(EDTA)	일반혈액	MCHC	32	36	g/dL	일반혈액	MCHC	참고치 다양	
+Blood(EDTA)	일반혈액	"MCHC,응급"	32	36	g/dL				
+Blood(EDTA)	일반혈액	MCV	81	96	fL	일반혈액	MCV	참고치 다양	
+Blood(EDTA)	일반혈액	"MCV,응급"	81	96	fL				
+Blood(EDTA)	일반혈액	Monocyte	1.7	9.3	%				
+Blood(EDTA)	일반혈액	NRBC			/100WBC				
+Blood(EDTA)	일반혈액	PBS			1				
+Blood(EDTA)	일반혈액	PDW	9.5	17.5	fL	일반혈액	PDW	참고치 다름	
+Blood(EDTA)	일반혈액	"PDW,응급"	0	65	%				
+Blood(EDTA)	일반혈액	PLT	130	400	*10^3/ul	일반혈액	PLT	참고치 다양	
+Blood(EDTA)	일반혈액	"PLT-E,응급"	130	400	*10^3/ul				
+Blood(EDTA)	일반혈액	RBC	4.2	6.3	*10^6/ul	일반혈액	RBC	참고치 다양	
+Blood(EDTA)	일반혈액	"RBC-E,응급"	4.2	6.3	*10^6/ul				
+Blood(EDTA)	일반혈액	RDW	11.5	14.5	%	일반혈액	RDW		
+Blood(EDTA)	일반혈액	"RDW,응급"	11.5	14.5	%				
+Blood(EDTA)	일반혈액	Reti C.	0.5	1.5	%				
+Blood(EDTA)	일반혈액	WBC	4	10	*10^3/ul	일반혈액	WBC	참고치 다양	
+Blood(EDTA)	일반혈액	"WBC-E,응급"	4	10	*10^3/ul				
+Blood(EDTA)	일반혈액	band. neutrophil	0	6	%				
+Blood(EDTA)	일반혈액	blast			%				
+Blood(EDTA)	일반혈액	lmmature cell			%				
+Blood(EDTA)	일반혈액	metamyelocyte			%				
+Blood(EDTA)	일반혈액	myelocyte			%				
+Blood(EDTA)	일반혈액	promyelocyte			%				
+Blood(EDTA)	일반혈액	seg. neutrophil	42.2	75.2	%				
+Blood(EDTA)	특수화학검사	plasma Hb	0	5	mg/dL				
+Blood(EDTA)	혈액은행검사	D.Coombs		Negative	%				
+"Blood(EDTA),Basal"	호르몬자극검사	ACTH-0분	10	60	pg/ml				
+"Blood(PLA_,37?C 유지)"	혈청	Cryoglobul		Negative					
+Blood(SST)	갑상선종양검사	Free T4	0.8	1.9	ng/dL				
+Blood(SST)	갑상선종양검사	Free T4	0.7	1.48	ng/dL	"호르몬,종양표지자검사"	Free T4	혈청검사	
+Blood(SST)	갑상선종양검사	Free T4	0.89	1.76	ng/dL				
+Blood(SST)	갑상선종양검사	T3	80	200	ng/dL				
+Blood(SST)	갑상선종양검사	T3	58	159	ng/dL	"호르몬,종양표지자검사"	T3	혈청검사	
+Blood(SST)	갑상선종양검사	T3	60	181	ng/dL				
+Blood(SST)	갑상선종양검사	TSH	0.4	4.1	uIU/mL				
+Blood(SST)	갑상선종양검사	TSH	0.35	4.94	uIU/mL	"호르몬,종양표지자검사"	TSH	혈청검사	
+Blood(SST)	갑상선종양검사	TSH	0.55	4.78	uIU/mL				
+Blood(SST)	분자유전학	BK PCR		Negative					
+Blood(SST)	응급화학검사	"ALB-E,응급"	3.3	5.2	g/dL				
+Blood(SST)	응급화학검사	"ALP-E,응급"	30	115	IU/L				
+Blood(SST)	응급화학검사	"BIL.T-E,응급"	0.2	1.2	mg/dL				
+Blood(SST)	응급화학검사	"BUN-E,응급"	10	26	mg/dL				
+Blood(SST)	응급화학검사	"CHOL-E,응급"	0	240	mg/dL				
+Blood(SST)	응급화학검사	"CRP-E,응급"	0	0.49	mg/dL				
+Blood(SST)	응급화학검사	Ca++	1.05	1.35	mmol/L				
+Blood(SST)	응급화학검사	"Ca,T.-E,응급"	8.8	10.5	mg/dL				
+Blood(SST)	응급화학검사	"Cl-E,응급"	98	110	mmol/L				
+Blood(SST)	응급화학검사	"Creat-E,응급"	0.7	1.4	mg/dL				
+Blood(SST)	응급화학검사	GFR/MDRD			MDRD				
+Blood(SST)	응급화학검사	"GLU-E,응급"	70	110	mg/dL				
+Blood(SST)	응급화학검사	"GOT(AST)-E,응급"	0	39	lU/L				
+Blood(SST)	응급화학검사	"GPT(ALT)-E,응급"	0	39	lU/L				
+Blood(SST)	응급화학검사	"K-E,응급"	3.5	5.5	mmol/L				
+Blood(SST)	응급화학검사	"Na-E,응급"	135	145	mmol/L				
+Blood(SST)	응급화학검사	"OSMO,S"	289	302	mOsm/Kg				
+Blood(SST)	응급화학검사	"Phospho-E,응급"	2.5	4.5	mg/dL				
+Blood(SST)	응급화학검사	"T.CO2-E,응급"	24	31	mmol/L				
+Blood(SST)	응급화학검사	"TP-E,응급"	6	8	g/dL				
+Blood(SST)	응급화학검사	"UA-E,응급"	3	7	mg/dL				
+Blood(SST)	일반화학1	ALB	3.3	5.2	g/dL				
+Blood(SST)	일반화학1	ALP	30	115	lU/L				
+Blood(SST)	일반화학1	BUN	10	26	mg/dL	일반화학1	BUN		
+Blood(SST)	일반화학1	CA	8.8	10.5	mg/dL	일반화학1	Ca	Calcium	
+Blood(SST)	일반화학1	CHOL	70	240	mg/dL	일반화학1	CHOL	Cholesterol	
+Blood(SST)	일반화학1	CL	98	110	mmol/L	일반화학1	CL	Chloride (serum)	
+Blood(SST)	일반화학1	"CRP,quan."	0	0.49	mg/dL	일반화학1	CRP	hs-CRP quantitation	 참고치 다름
+Blood(SST)	일반화학1	Creatinine	0.7	1.4	mg/dL	일반화학1	Creatinine	참고치 다양	
+Blood(SST)	일반화학1	GFR/CKD-EPI			mL.min/1.73m^2				
+Blood(SST)	일반화학1	GFR/MDRD			mL.min/1.73m^2				
+Blood(SST)	일반화학1	GGT	12	36	lU/L	일반화학1	GGT	참고치 다름	
+Blood(SST)	일반화학1	GLU	70	110	mg/dL	일반화학1	GLU	Glucose	
+Blood(SST)	일반화학1	GOT(AST)	0	39	lU/L	일반화학1	GOT	GOT (AST)	참고치 다름
+Blood(SST)	일반화학1	GPT(ALT)	0	39	lU/L	일반화학1	GPT	GPT (AST)	참고치 다름
+Blood(SST)	일반화학1	HDL-C	35	55	mg/dL	일반화학1	HDL-C	HDL-Cholesterol	참고치 다양
+Blood(SST)	일반화학1	Iron(Fe)	50	170	ug/dL	일반화학1	Iron	참고치 남녀	
+Blood(SST)	일반화학1	K	3.5	5.5	mmol/L	일반화학1	Potassium (serum)	K	
+Blood(SST)	일반화학1	LDH-L	100	225	IU/L	일반화학1	LD (LDH)	LDH-L	
+Blood(SST)	일반화학1	LDL-C(계산	0	129	mg/dL	일반화학1	LDL-Cholesterol	LDL-C	참고치 다름
+Blood(SST)	일반화학1	P	2.5	4.5	mg/dL	일반화학1	Phosphorus	P	
+Blood(SST)	일반화학1	TB	0.2	1.2	mg/dL	일반화학1	"Bilirubin, total"	TB	
+Blood(SST)	일반화학1	TCO2	24	31	mmol/L				
+Blood(SST)	일반화학1	TG	0	199	mg/dL	일반화학1	Triglyceride (TG)	TG	참고치 다름
+Blood(SST)	일반화학1	TH	0	199	mg/dL				
+Blood(SST)	일반화학1	TIBC	280	400	ug/dL	일반화학1	TIBC		
+Blood(SST)	일반화학1	TP	6	8	g/dL	일반화학1	"Protein, total"	TP	
+Blood(SST)	일반화학1	UA	3	7	mg/dL	일반화학1	Uric Acid	UA	
+Blood(SST)	일반화학1	NA	135	145	mmol/L	일반화학1	Sodium (serum)	NA	
+Blood(SST)	혈청	"ASO,quan."	0	155	IU/mL				
+Blood(SST)	혈청	Anti-HBs		Neg(<10)	mlU/mL				
+Blood(SST)	혈청	Anti-HCV		Negative					
+Blood(SST)	혈청	CMV igG		Neg(<5)					
+Blood(SST)	혈청	CMV igM		Negative					
+Blood(SST)	혈청	HBsAg		Negative					
+Blood(SST)	혈청	HIV Ag/Ab		Negative					
+Blood(SST)	혈청	"RF,quan"	0	9.9	IU/mL				
+Blood(SST)	혈청	RPR 정성		Non Reactive					
+Blood(Sod.citrate)	응급검사	"APTT-E,응급"	19.6	36	sec				
+Blood(Sod.citrate)	응급검사	"PT- %,응급"	80	100	%				
+Blood(Sod.citrate)	응급검사	"PT- INR,응급"	1	1.1	INR				
+Blood(Sod.citrate)	응급검사	"PT- sec,응급"	11.1	12.3	sec				
+Blood(Sod.citrate)	응급검사	"PT-%,응급"	80	100	%				
+Blood(Sod.citrate)	응급검사	"PT-INR,응급"	1	1.1	INR				
+Blood(Sod.citrate)	응급검사	"PT-sec,응급"	10.7	11.9	sec				
+Blood(Sod.citrate)	혈액응고	APTT	19.6	36	sec				
+Blood(Sod.citrate)	혈액응고	"D-dimer,QN"	0	0.55	mg/L				
+Blood(Sod.citrate)	혈액응고	Fibrinogen	160	380	mg/dL				
+Blood(Sod.citrate)	혈액응고	PT- %	80	100	%				
+Blood(Sod.citrate)	혈액응고	PT- INR	1	1.1	INR				
+Blood(Sod.citrate)	혈액응고	PT- sec	10.7	11.9	sec				
+Blood(Sod.citrate)	혈액응고	PT- sec	11.1	12.3	sec				
+Plain Blood	혈액은행검사	ABO typing							
+Plain Blood	혈액은행검사	Ab screen		Negative					
+Plain Blood	혈액은행검사	I.Coombs		Negative					
+Plain Blood	혈액은행검사	Rh typing							
+Serum basal	호르몬자극검사	Cor-0분	5	25	ug/dl				
+Serum basal	호르몬자극검사	Cor-30분	1	14	ug/dl				
+Sputum	일반미생물	Culture							
+Sputum	일반미생물	Gram Stain							
+Stool	미생물틀수	C.difficil							
+Stool	분자유전학	CMV-PCR		Negative					
+Stool(feces)	기생충검사	Occult	Neg	100	ng/mL				
+Urine (Void)	일반미생물	Culture							
+Urine (Void)	일반미생물	Gram Stain							
+"Urine,random"	요검사	Albumin	(-)	(+/-)					
+"Urine,random"	요검사	Bilirubin		(-)					
+"Urine,random"	요검사	Blood		(-)					
+"Urine,random"	요검사	Cast							
+"Urine,random"	요검사	Color		담황					
+"Urine,random"	요검사	Crystal							
+"Urine,random"	요검사	Glucose		(-)					
+"Urine,random"	요검사	Ketone		(-)					
+"Urine,random"	요검사	Nitrite		(-)					
+"Urine,random"	요검사	Other							
+"Urine,random"	요검사	RBC	0	4	/HPF				
+"Urine,random"	요검사	Renal cell	0	1	/HPF				
+"Urine,random"	요검사	SG	1.005	1.03					
+"Urine,random"	요검사	Squamous cell	0	9	/HPF				
+"Urine,random"	요검사	Transitional cell	0	4	/HPF				
+"Urine,random"	요검사	Unk.bacteria							
+"Urine,random"	요검사	Urobilinogen		(+/-)					
+"Urine,random"	요검사	WBC	0	4	/HPF				
+"Urine,random"	요검사	WBC stick		(-)					
+"Urine,random"	요검사	pH	5	8.5					
+"Urine,random"	요검사	turbidity		청					
+"Urine,random"	응급검사	"ALB,U-E,응급"	(-)	(+/-)					
+"Urine,random"	응급검사	"BILI,U-E,응급"		(-)					
+"Urine,random"	응급검사	"Blood,U-E,응급"		(-)					
+"Urine,random"	응급검사	Cast							
+"Urine,random"	응급검사	Color		담황					
+"Urine,random"	응급검사	Crystal							
+"Urine,random"	응급검사	"GLU,U-E,응급"		(-)					
+"Urine,random"	응급검사	"Ketone,U-E,응급"		(-)					
+"Urine,random"	응급검사	"Nitrit,U-E,응급"		(-)					
+"Urine,random"	응급검사	Other							
+"Urine,random"	응급검사	RBC	0	4	/HPF				
+"Urine,random"	응급검사	Renal cell	0	1	/HPF				
+"Urine,random"	응급검사	"SG,U-E,응급"	1.005	1.03					
+"Urine,random"	응급검사	Squamous cell	0	9	/HPF				
+"Urine,random"	응급검사	Transitional cell	0	4	/HPF				
+"Urine,random"	응급검사	Turbidity		청					
+"Urine,random"	응급검사	Unk.bacteria							
+"Urine,random"	응급검사	"Urob,U-E,응급"		(+/-)					
+"Urine,random"	응급검사	"Urobil,U-E,응급"		(+/-)					
+"Urine,random"	응급검사	WBC	0	4	/HPF				
+"Urine,random"	응급검사	"WBC stic-E,응급"		(-)					
+"Urine,random"	응급검사	"pH,U-E,응급"	5	8.5					
+"Urine,random"	응급검사	turbidity		청					
+"Urine,random"	응급화학검사	"Cl,U,응급"			mmol/L				
+"Urine,random"	응급화학검사	"Creat,U,응급"			mg/dL				
+"Urine,random"	응급화학검사	"K,U,응급"			mmol/L				
+"Urine,random"	응급화학검사	"Na,U,응급"			mmol/L				
+"Urine,random"	일반화학2	"CL,U"	110	250	mmol/L				
+"Urine,random"	일반화학2	"CREAT, U"			mg/dL				
+"Urine,random"	일반화학2	"K,U"			mmol/L				
+"Urine,random"	일반화학2	Micro Alb	0	20	mg/L				
+"Urine,random"	일반화학2	Micro Alb Ratio							
+"Urine,random"	일반화학2	Micro Alb Ratio			ug/mg				
+"Urine,random"	일반화학2	"Na,U"			mmol/L				
+"Urine,random"	일반화학2	Pro/Cre Ratio			mg/mg				
+"Urine,random"	일반화학2	"Protein,U"	1	114	mg/dL				

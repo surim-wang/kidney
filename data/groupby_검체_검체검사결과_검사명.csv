@@ -1,0 +1,242 @@
+﻿검체,검체검사결과,검사명,최저참고치,최고참고치,단위
+B(SST),Hormone,Free T4,1,1,1
+B(SST),Hormone,Microsome-Ab,1,1,1
+B(SST),Hormone,T3,1,1,1
+B(SST),Hormone,TSH,1,1,1
+B(SST),Hormone,TSH-Receptor-Ab,1,1,1
+B(SST),Hormone,Tg-Ab,1,1,1
+B(SST),"간염,종양,빈혈및기타",Anti-ds-DNA,1,1,1
+B(SST),"간염,종양,빈혈및기타",Ferritin,1,1,1
+B(SST),"감염,종양,빈혈및기타",Folate,1,1,1
+B(SST),"감염,종양,빈혈및기타",Vitamin B12,1,1,1
+B(SST),기타검사2,HSV 1-igG,1,1,0
+B(SST),기타검사2,HSV 1-igM,0,1,0
+B(SST),단백면역화학,C3,1,1,1
+B(SST),단백면역화학,C4,1,1,1
+B(SST),단백면역화학,IgA,1,1,1
+B(SST),단백면역화학,IgG,1,1,1
+B(SST),단백면역화학,IgM,1,1,1
+B(SST),혈청,"ANA,titer",0,1,0
+B(혈액배양1쌍),혈액배양,Blood Gram/Micro,0,0,0
+B(혈액배양1쌍),혈액배양,Culture,0,0,0
+Blood(EDTA),"간염,종양,빈혈및기타",Cyclosporine,1,1,1
+Blood(EDTA),단백면역화학,Haptoglobi,1,1,1
+Blood(EDTA),약물및중금속,Tacrolimus(농도),1,1,1
+Blood(EDTA),응급검사,"ANC,응급",1,1,1
+Blood(EDTA),응급검사,Ab. Lymphoid cell,0,0,0
+Blood(EDTA),응급검사,Atypical lymphocyte,0,0,1
+Blood(EDTA),응급검사,Band. neutrophil,1,1,0
+Blood(EDTA),응급검사,Baseophil,1,1,1
+Blood(EDTA),응급검사,Blast,0,0,1
+Blood(EDTA),응급검사,Eosinophil,1,1,1
+Blood(EDTA),응급검사,"HB-E,응급",1,1,1
+Blood(EDTA),응급검사,"HCT-E,응급",1,1,1
+Blood(EDTA),응급검사,Immature cell,0,0,0
+Blood(EDTA),응급검사,LUC,0,0,0
+Blood(EDTA),응급검사,Lymphyocyte,1,1,1
+Blood(EDTA),응급검사,"MCH,응급",1,1,1
+Blood(EDTA),응급검사,"MCH-E,응급",1,1,1
+Blood(EDTA),응급검사,"MCHC,응급",1,1,1
+Blood(EDTA),응급검사,"MCHC-E,응급",1,1,1
+Blood(EDTA),응급검사,"MCV,응급",1,1,1
+Blood(EDTA),응급검사,"MCV-E,응급",1,1,1
+Blood(EDTA),응급검사,Metamyelocyte,0,0,1
+Blood(EDTA),응급검사,Monocyte,1,1,1
+Blood(EDTA),응급검사,Myelocyte,0,0,1
+Blood(EDTA),응급검사,NRBC,0,0,0
+Blood(EDTA),응급검사,"PDW,응급",1,1,1
+Blood(EDTA),응급검사,"PDW-E,응급",1,1,1
+Blood(EDTA),응급검사,"PLT,응급",1,1,1
+Blood(EDTA),응급검사,"PLT-E,응급",1,1,1
+Blood(EDTA),응급검사,Promyelocyte,0,0,1
+Blood(EDTA),응급검사,"RBC-E,응급",1,1,1
+Blood(EDTA),응급검사,"RDW,응급",1,1,1
+Blood(EDTA),응급검사,"RDW-E,응급",1,1,1
+Blood(EDTA),응급검사,Seg. neutrophil,1,1,1
+Blood(EDTA),응급검사,"WBC-E,응급",1,1,1
+Blood(EDTA),일반혈액,ANC,1,1,1
+Blood(EDTA),일반혈액,"ANC,응급",1,1,1
+Blood(EDTA),일반혈액,Abnoormal.lympho,0,0,1
+Blood(EDTA),일반혈액,Atypical lymphocyte,0,0,1
+Blood(EDTA),일반혈액,Baseophil,1,1,1
+Blood(EDTA),일반혈액,ESR,1,1,1
+Blood(EDTA),일반혈액,Eosinophil,1,1,1
+Blood(EDTA),일반혈액,"HB-E,응급",1,1,1
+Blood(EDTA),일반혈액,"HCT-E,응급",1,1,1
+Blood(EDTA),일반혈액,Hb,1,1,1
+Blood(EDTA),일반혈액,Hct,1,1,1
+Blood(EDTA),일반혈액,Lymphyocyte,1,1,1
+Blood(EDTA),일반혈액,MCH,1,1,1
+Blood(EDTA),일반혈액,"MCH,응급",1,1,1
+Blood(EDTA),일반혈액,MCHC,1,1,1
+Blood(EDTA),일반혈액,"MCHC,응급",1,1,1
+Blood(EDTA),일반혈액,MCV,1,1,1
+Blood(EDTA),일반혈액,"MCV,응급",1,1,1
+Blood(EDTA),일반혈액,Monocyte,1,1,1
+Blood(EDTA),일반혈액,NRBC,0,0,1
+Blood(EDTA),일반혈액,PBS,0,0,1
+Blood(EDTA),일반혈액,PDW,1,1,1
+Blood(EDTA),일반혈액,"PDW,응급",1,1,1
+Blood(EDTA),일반혈액,PLT,1,1,1
+Blood(EDTA),일반혈액,"PLT-E,응급",1,1,1
+Blood(EDTA),일반혈액,RBC,1,1,1
+Blood(EDTA),일반혈액,"RBC-E,응급",1,1,1
+Blood(EDTA),일반혈액,RDW,1,1,1
+Blood(EDTA),일반혈액,"RDW,응급",1,1,1
+Blood(EDTA),일반혈액,Reti C.,1,1,1
+Blood(EDTA),일반혈액,WBC,1,1,1
+Blood(EDTA),일반혈액,"WBC-E,응급",1,1,1
+Blood(EDTA),일반혈액,band. neutrophil,1,1,1
+Blood(EDTA),일반혈액,blast,0,0,1
+Blood(EDTA),일반혈액,lmmature cell,0,0,1
+Blood(EDTA),일반혈액,metamyelocyte,0,0,1
+Blood(EDTA),일반혈액,myelocyte,0,0,1
+Blood(EDTA),일반혈액,promyelocyte,0,0,1
+Blood(EDTA),일반혈액,seg. neutrophil,1,1,1
+Blood(EDTA),특수화학검사,plasma Hb,1,1,1
+Blood(EDTA),혈액은행검사,D.Coombs,0,1,1
+"Blood(EDTA),Basal",호르몬자극검사,ACTH-0분,1,1,1
+"Blood(PLA_,37︒C 유지)",혈청,Cryoglobul,0,1,0
+Blood(SST),갑상선종양검사,Free T4,3,3,3
+Blood(SST),갑상선종양검사,T3,3,3,3
+Blood(SST),갑상선종양검사,TSH,3,3,3
+Blood(SST),분자유전학,BK PCR,0,1,0
+Blood(SST),응급화학검사,"ALB-E,응급",1,1,1
+Blood(SST),응급화학검사,"ALP-E,응급",1,1,1
+Blood(SST),응급화학검사,"BIL.T-E,응급",1,1,1
+Blood(SST),응급화학검사,"BUN-E,응급",1,1,1
+Blood(SST),응급화학검사,"CHOL-E,응급",1,1,1
+Blood(SST),응급화학검사,"CRP-E,응급",1,1,1
+Blood(SST),응급화학검사,Ca++,1,1,1
+Blood(SST),응급화학검사,"Ca,T.-E,응급",1,1,1
+Blood(SST),응급화학검사,"Cl-E,응급",1,1,1
+Blood(SST),응급화학검사,"Creat-E,응급",1,1,1
+Blood(SST),응급화학검사,GFR/MDRD,0,0,1
+Blood(SST),응급화학검사,"GLU-E,응급",1,1,1
+Blood(SST),응급화학검사,"GOT(AST)-E,응급",1,1,1
+Blood(SST),응급화학검사,"GPT(ALT)-E,응급",1,1,1
+Blood(SST),응급화학검사,"K-E,응급",1,1,1
+Blood(SST),응급화학검사,"Na-E,응급",1,1,1
+Blood(SST),응급화학검사,"OSMO,S",1,1,1
+Blood(SST),응급화학검사,"Phospho-E,응급",1,1,1
+Blood(SST),응급화학검사,"T.CO2-E,응급",1,1,1
+Blood(SST),응급화학검사,"TP-E,응급",1,1,1
+Blood(SST),응급화학검사,"UA-E,응급",1,1,1
+Blood(SST),일반화학1,ALB,1,1,1
+Blood(SST),일반화학1,ALP,1,1,1
+Blood(SST),일반화학1,BUN,1,1,1
+Blood(SST),일반화학1,CA,1,1,1
+Blood(SST),일반화학1,CHOL,1,1,1
+Blood(SST),일반화학1,CL,1,1,1
+Blood(SST),일반화학1,"CRP,quan.",1,1,1
+Blood(SST),일반화학1,Creatinine,1,1,1
+Blood(SST),일반화학1,GFR/CKD-EPI,0,0,1
+Blood(SST),일반화학1,GFR/MDRD,0,0,1
+Blood(SST),일반화학1,GGT,1,1,1
+Blood(SST),일반화학1,GLU,1,1,1
+Blood(SST),일반화학1,GOT(AST),1,1,1
+Blood(SST),일반화학1,GPT(ALT),1,1,1
+Blood(SST),일반화학1,HDL-C,1,1,1
+Blood(SST),일반화학1,Iron(Fe),1,1,1
+Blood(SST),일반화학1,K,1,1,1
+Blood(SST),일반화학1,LDH-L,1,1,1
+Blood(SST),일반화학1,LDL-C(계산,1,1,1
+Blood(SST),일반화학1,P,1,1,1
+Blood(SST),일반화학1,TB,1,1,1
+Blood(SST),일반화학1,TCO2,1,1,1
+Blood(SST),일반화학1,TG,1,1,1
+Blood(SST),일반화학1,TH,1,1,1
+Blood(SST),일반화학1,TIBC,1,1,1
+Blood(SST),일반화학1,TP,1,1,1
+Blood(SST),일반화학1,UA,1,1,1
+Blood(SST),혈청,"ASO,quan.",1,1,1
+Blood(SST),혈청,Anti-HBs,0,1,1
+Blood(SST),혈청,Anti-HCV,0,1,0
+Blood(SST),혈청,CMV igG,0,1,0
+Blood(SST),혈청,CMV igM,0,1,0
+Blood(SST),혈청,HBsAg,0,1,0
+Blood(SST),혈청,HIV Ag/Ab,0,1,0
+Blood(SST),혈청,"RF,quan",1,1,1
+Blood(SST),혈청,RPR 정성,0,1,0
+Blood(Sod.citrate),응급검사,"APTT-E,응급",1,1,1
+Blood(Sod.citrate),응급검사,"PT- %,응급",1,1,1
+Blood(Sod.citrate),응급검사,"PT- INR,응급",1,1,1
+Blood(Sod.citrate),응급검사,"PT- sec,응급",1,1,1
+Blood(Sod.citrate),응급검사,"PT-%,응급",1,1,1
+Blood(Sod.citrate),응급검사,"PT-INR,응급",1,1,1
+Blood(Sod.citrate),응급검사,"PT-sec,응급",1,1,1
+Blood(Sod.citrate),혈액응고,APTT,1,1,1
+Blood(Sod.citrate),혈액응고,"D-dimer,QN",1,1,1
+Blood(Sod.citrate),혈액응고,Fibrinogen,1,1,1
+Blood(Sod.citrate),혈액응고,PT- %,1,1,1
+Blood(Sod.citrate),혈액응고,PT- INR,1,1,1
+Blood(Sod.citrate),혈액응고,PT- sec,2,2,2
+Plain Blood,혈액은행검사,ABO typing,0,0,0
+Plain Blood,혈액은행검사,Ab screen,0,1,0
+Plain Blood,혈액은행검사,I.Coombs,0,1,0
+Plain Blood,혈액은행검사,Rh typing,0,0,0
+Serum basal,호르몬자극검사,Cor-0분,1,1,1
+Serum basal,호르몬자극검사,Cor-30분,1,1,1
+Sputum,일반미생물,Culture,0,0,0
+Sputum,일반미생물,Gram Stain,0,0,0
+Stool,미생물틀수,C.difficil,0,0,0
+Stool,분자유전학,CMV-PCR,0,1,0
+Stool(feces),기생충검사,Occult,1,1,1
+Urine (Void),일반미생물,Culture,0,0,0
+Urine (Void),일반미생물,Gram Stain,0,0,0
+"Urine,random",요검사,Albumin,1,1,0
+"Urine,random",요검사,Bilirubin,0,1,0
+"Urine,random",요검사,Blood,0,1,0
+"Urine,random",요검사,Cast,0,0,0
+"Urine,random",요검사,Color,0,1,0
+"Urine,random",요검사,Crystal,0,0,0
+"Urine,random",요검사,Glucose,0,1,0
+"Urine,random",요검사,Ketone,0,1,0
+"Urine,random",요검사,Nitrite,0,1,0
+"Urine,random",요검사,Other,0,0,0
+"Urine,random",요검사,RBC,1,1,1
+"Urine,random",요검사,Renal cell,1,1,1
+"Urine,random",요검사,SG,1,1,0
+"Urine,random",요검사,Squamous cell,1,1,1
+"Urine,random",요검사,Transitional cell,1,1,1
+"Urine,random",요검사,Unk.bacteria,0,0,0
+"Urine,random",요검사,Urobilinogen,0,1,0
+"Urine,random",요검사,WBC,1,1,1
+"Urine,random",요검사,WBC stick,0,1,0
+"Urine,random",요검사,pH,1,1,0
+"Urine,random",요검사,turbidity,0,1,0
+"Urine,random",응급검사,"ALB,U-E,응급",1,1,0
+"Urine,random",응급검사,"BILI,U-E,응급",0,1,0
+"Urine,random",응급검사,"Blood,U-E,응급",0,1,0
+"Urine,random",응급검사,Cast,0,0,0
+"Urine,random",응급검사,Color,0,1,0
+"Urine,random",응급검사,Crystal,0,0,0
+"Urine,random",응급검사,"GLU,U-E,응급",0,1,0
+"Urine,random",응급검사,"Ketone,U-E,응급",0,1,0
+"Urine,random",응급검사,"Nitrit,U-E,응급",0,1,0
+"Urine,random",응급검사,Other,0,0,0
+"Urine,random",응급검사,RBC,1,1,1
+"Urine,random",응급검사,Renal cell,1,1,1
+"Urine,random",응급검사,"SG,U-E,응급",1,1,0
+"Urine,random",응급검사,Squamous cell,1,1,1
+"Urine,random",응급검사,Transitional cell,1,1,1
+"Urine,random",응급검사,Turbidity,0,1,0
+"Urine,random",응급검사,Unk.bacteria,0,0,0
+"Urine,random",응급검사,"Urob,U-E,응급",0,1,0
+"Urine,random",응급검사,"Urobil,U-E,응급",0,1,0
+"Urine,random",응급검사,WBC,1,1,1
+"Urine,random",응급검사,"WBC stic-E,응급",0,1,0
+"Urine,random",응급검사,"pH,U-E,응급",1,1,0
+"Urine,random",응급검사,turbidity,0,1,0
+"Urine,random",응급화학검사,"Cl,U,응급",0,0,1
+"Urine,random",응급화학검사,"Creat,U,응급",0,0,1
+"Urine,random",응급화학검사,"K,U,응급",0,0,1
+"Urine,random",응급화학검사,"Na,U,응급",0,0,1
+"Urine,random",일반화학2,"CL,U",1,1,1
+"Urine,random",일반화학2,"CREAT, U",0,0,1
+"Urine,random",일반화학2,"K,U",0,0,1
+"Urine,random",일반화학2,Micro Alb,1,1,1
+"Urine,random",일반화학2,Micro Alb Ratio,0,0,1
+"Urine,random",일반화학2,"Na,U",0,0,1
+"Urine,random",일반화학2,Pro/Cre Ratio,0,0,1
+"Urine,random",일반화학2,"Protein,U",1,1,1
