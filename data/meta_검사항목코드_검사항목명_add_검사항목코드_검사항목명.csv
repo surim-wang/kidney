@@ -1,0 +1,1542 @@
+검사항목코드	검사항목명	검사분류코드	검사분류명	
+L2001	WBC	L20	일반혈액	0
+L2002	RBC	L20	일반혈액	0
+L2003	Hb	L20	일반혈액	0
+L2004	Hct	L20	일반혈액	0
+L2005	RDW	L20	일반혈액	0
+L2006	PDW	L20	일반혈액	0
+L2008	ESR	L20	일반혈액	0
+L2009	PLT	L20	일반혈액	0
+L2010	Eosinophil count	L20	일반혈액	0
+L2011	Reticulocyte	L20	일반혈액	0
+L2012	WBC Differential count	L20	일반혈액	0
+L2013	CBC	L20	일반혈액	0
+L2014	IRF	L20	일반혈액	0
+L2015	Reticulocytes Panel	L20	일반혈액	0
+L2016	HPC	L20	일반혈액	0
+L2017	"CBC, ESR"	L20	일반혈액	0
+L2018	"CBC, Reticulocyte Panel"	L20	일반혈액	0
+L2021	MCV	L20	일반혈액	0
+L2022	MCH	L20	일반혈액	0
+L2023	MCHC	L20	일반혈액	0
+L2024	PCT	L20	일반혈액	0
+L2025	MPV	L20	일반혈액	0
+L2125	CMV Antigenemia Assay	L21	특수혈액검사	0
+L2131	CD34 absolute count(PBSC)	L21	특수혈액검사	0
+L2164	"LLM,Acute panel 초기진단용(CD2,5,7,10,13,19,20,33,34,56,61,117,MPO,TdT)"	L21	특수혈액검사	0
+L2165	"LLM,Chronic panel 초기진단용(CD2,5,7,10,19,20,22,23,56,FMC7,Kappa,Lambda,TdT)"	L21	특수혈액검사	0
+L2167	"PNH panel (RBC,Granulocyte,monocyte)"	L21	특수혈액검사	0
+L2177	MRD (Minimal residual disease)	L21	특수혈액검사	0
+L2178	"CD41(GPIIb,Platelet Ag)"	L21	특수혈액검사	0
+L5016	"CD34 absolute count(PB,PBSC)"	L21	특수혈액검사	1
+L2201	Coagulation Panel	L22	혈액응고	0
+L2203	PT (Prothrombin time)	L22	혈액응고	0
+L2204	aPTT(activated partial thromboplastin time)	L22	혈액응고	0
+L2206	Fibrinogen(검사24시간가능)	L22	혈액응고	0
+L2207	Mixing PT test	L22	혈액응고	0
+L22070	Mixing aPTT test	L22	혈액응고	0
+L2208	Factor assay (VIII)	L22	혈액응고	0
+L2209	Factor assay (IX)	L22	혈액응고	0
+L2215	Thrombin Time	L22	혈액응고	0
+L2225	Coagulation with D-dImer	L22	혈액응고	0
+L2230	Factor assay(II)	L22	혈액응고	0
+L2231	Factor assay (V)	L22	혈액응고	0
+L2232	Factor assay (VII)	L22	혈액응고	0
+L2233	Factor assay (X)	L22	혈액응고	0
+L2234	Factor assay (XI)	L22	혈액응고	0
+L2235	Factor assay (XII)	L22	혈액응고	0
+L2236	Factor VIII Ab	L22	혈액응고	0
+L2237	Factor IX Ab	L22	혈액응고	0
+L2245	FactorXIII screening	L22	혈액응고	0
+L2249	Plasminogen	L22	혈액응고	0
+L2250	Protein S	L22	혈액응고	0
+L2251	APC resistance	L22	혈액응고	0
+L2256	ACA (IgG & IgM)	L22	혈액응고	0
+L2257	Thrombosis panel	L22	혈액응고	0
+L2259	Platelet aggregation panel	L22	혈액응고	0
+L2262	DIC Panel	L22	혈액응고	0
+L2263	Anti-Xa UFH	L22	혈액응고	0
+L2264	Anti Xa LMWH Test	L22	혈액응고	0
+L2264	Anti-Xa LMWH	L22	혈액응고	0
+L2265	D-dimer assay (정량)	L22	혈액응고	0
+L2266	Platelet Drug Response Assay (Aspirin + P2Y12)	L22	혈액응고	0
+L2267	Platelet Drug Response Assay (Aspirin)	L22	혈액응고	0
+L2268	Platelet Drug Response Assay (P2Y12)	L22	혈액응고	0
+L2272	"신속 혈소판 기능검사 (PFA100, C/EPI)"	L22	혈액응고	0
+L2273	"신속 혈소판 기능검사 (PFA100, C/ADP)"	L22	혈액응고	0
+L2278	Lupus anticoagulant(Total)	L22	혈액응고	0
+L2282	vWF Antigen	L22	혈액응고	0
+L2283	vWF RCo activity	L22	혈액응고	0
+L2284	"Anti-β₂-Glycoprotein I antibody, IgG & IgM"	L22	혈액응고	0
+L2285	Anti-Heparin/PF4 IgG Ab	L22	혈액응고	0
+L2401	BM aspiration	L24	골수검사	0
+L2402	BM Diagnosis(한쪽)	L24	골수검사	0
+L24021	BM Diagnosis(양쪽)	L24	골수검사	0
+L2403	BM consultation	L24	골수검사	0
+L2404	BM biopsy	L24	골수검사	0
+L2504	Borrelia burgdoferi PCR	L25	분자유전학	0
+L2506	Pneumocystis jiroveci (P. carinii) PCR	L25	분자유전학	0
+L2507	Legionella pneumophila PCR	L25	분자유전학	0
+L2508	BK virus PCR	L25	분자유전학	0
+L250801	JC virus PCR	L25	분자유전학	0
+L2509	Cytomegalovirus PCR	L25	분자유전학	0
+L25100	"Myotonic dystrophy (DM1), DMPK PCR & Southern"	L25	분자유전학	0
+L25101	"Myotonic dystrophy(DM1), Southern"	L25	분자유전학	0
+L25102	"Myotonic dystrophy(DM1), PCR"	L25	분자유전학	0
+L25105	"Fragile X syndrome(FRAXA), FMR1 Southern"	L25	분자유전학	0
+L25106	"Prader-Willi/Angelman Syndrome, Methylation PCR"	L25	분자유전학	0
+L25107	"RETT syndrome, MECP2 sequencing"	L25	분자유전학	0
+L2511	Hepatitis C virus (HCV) PCR	L25	분자유전학	0
+L25111	"CADASIL, NOTCH3 sequencing"	L25	분자유전학	0
+L25113	"Wilson disease, ATP7B sequencing"	L25	분자유전학	0
+L25115	"GSD1a, G6PC sequencing"	L25	분자유전학	0
+L25116	"Spastic paraplegia, SPG4 (SPAST) sequencing"	L25	분자유전학	0
+L25117	"CMT/HNPP, PMP22 sequencing"	L25	분자유전학	0
+L25118	"CMT, MPZ sequencing"	L25	분자유전학	0
+L25119	"CMT, GJB1 (cx32) sequencing"	L25	분자유전학	0
+L25120	"CMT1A/HNPP, PMP22 del/dup (MLPA)"	L25	분자유전학	0
+L251201	Chlamydia trachomatis PCR	L25	분자유전학	0
+L25121	"MELAS, MT-TL1 sequencing"	L25	분자유전학	0
+L25122	"MERRF, MT-TK sequencing"	L25	분자유전학	0
+L25123	"MTHFR, 1298A>C"	L25	분자유전학	0
+L25124	"ABO subgroup, ABO sequencing (exon 6,7)"	L25	분자유전학	0
+L25125	BRCA1 sequencing	L25	분자유전학	0
+L25126	BRCA2 sequencing	L25	분자유전학	0
+L25127	Cell culture(Amniotic fluid)	L25	분자유전학	0
+L25129	TPMT(1) genotyping	L25	분자유전학	0
+L2513	Mycoplasma pneumoniae PCR	L25	분자유전학	0
+L25130	"가족검사 beta-Thalassemia, HBB sequencing"	L25	분자유전학	0
+L25131	"가족검사 Norrie disease, NDP sequencing"	L25	분자유전학	0
+L25132	"가족검사 Deafness, GJB2 sequencing"	L25	분자유전학	0
+L25133	"가족검사 RETT syndrome, MECP2 sequencing"	L25	분자유전학	0
+L25134	"가족검사 CADASIL, NOTCH3 sequencing"	L25	분자유전학	0
+L25135	"가족검사 Wilson disease, ATP7B sequencing"	L25	분자유전학	0
+L25136	"가족검사 GSD1a, G6PC sequencing"	L25	분자유전학	0
+L25137	"가족검사 Spastic paraplegia, SPG4 (SPAST) sequencing"	L25	분자유전학	0
+L25138	"가족검사 CMT/HNPP, PMP22 sequencing"	L25	분자유전학	0
+L25139	"가족검사 CMT, MPZ sequencing"	L25	분자유전학	0
+L2514	Ureaplasma urealyticum PCR	L25	분자유전학	0
+L25140	"가족검사 CMT, GJB1 sequencing"	L25	분자유전학	0
+L25141	가족검사 BRCA1/2 sequencing	L25	분자유전학	0
+L25147	"Friedreich ataxia (FRDA), GAA Southern"	L25	분자유전학	0
+L25148	"JAK2, V617F"	L25	분자유전학	0
+L25149	"Neurofibromatosis 2, NF2 Sequencing"	L25	분자유전학	0
+L25150	"가족검사 Neurofibromatosis 2, NF2 Sequencing"	L25	분자유전학	0
+L25151	"Respiratory virus, PCR Panel"	L25	분자유전학	0
+L25152	"Adenovirus, nested PCR"	L25	분자유전학	0
+L25153	"Respiratory syncytial virus, RT-nested PCR"	L25	분자유전학	0
+L25154	"Influenza virus A,B, RT-nested PCR"	L25	분자유전학	0
+L25155	"Parainfluenza virus 1,2,3, RT-nested PCR"	L25	분자유전학	0
+L25156	"Cytomegalovirus 정량검사, real-time PCR"	L25	분자유전학	0
+L25157	"Epstein-Barr virus 정량검사, real-time PCR"	L25	분자유전학	0
+L25158	"Parvovirus B19 정량검사, real-time PCR"	L25	분자유전학	0
+L25159	"BK virus 정량검사, real-time PCR"	L25	분자유전학	0
+L2516	HSV1 PCR	L25	분자유전학	0
+L25160	"BCR-ABL1 정량검사, real-time PCR (Major, minor)"	L25	분자유전학	0
+L251601	HSV2 PCR	L25	분자유전학	0
+L25161	"PML-RARA rearrangement, 정량, real-time RT-PCR"	L25	분자유전학	0
+L25162	"ETV6-RUNX1 (TEL-AML1) rearrangement, 정량, real-time RT-PCR"	L25	분자유전학	0
+L25163	"RUNX1-RUNX1T1 (AML1-ETO) rearrangement, 정량, real-time RT-PCR"	L25	분자유전학	0
+L25164	RhCcEe genotyping	L25	분자유전학	0
+L25165	"HIV drug resistance mutation, sequencing"	L25	분자유전학	0
+L25166	"Bacterial Identification, rDNA sequencing"	L25	분자유전학	0
+L25168	"Fungal Identification, rDNA sequencing"	L25	분자유전학	0
+L25169	"Agammaglobulinemia, X-linked, BTK sequencing"	L25	분자유전학	0
+L2517	Epstein-Barr virus PCR	L25	분자유전학	0
+L25170	"Androgen insensitivity syndorme, AR sequencing"	L25	분자유전학	0
+L25171	"Long QT syndrome, KCNQ1 sequencing"	L25	분자유전학	0
+L25172	"Dopa-responsive dystonia, GCH1 sequencing"	L25	분자유전학	0
+L25173	"Amyotrophic lateral sclerosis, SOD1 sequencing"	L25	분자유전학	0
+L25174	"Hypokalemic periodic paralysis, CACNA1S sequencing"	L25	분자유전학	0
+L25175	"Multiple epiphyseal dysplasia, COMP sequencing"	L25	분자유전학	0
+L25176	"Multiple epiphyseal dysplasia, MATN3 sequencing"	L25	분자유전학	0
+L25177	"Corneal dystrophy, TGFBI(3), (exon 1-17, 전체 exon) sequencing"	L25	분자유전학	0
+L25178	"Frontotemporal dementia, MAPT sequencing"	L25	분자유전학	0
+L25179	"Polycystic kidney disease 2, Autosomal dominant, PKD2 sequencing"	L25	분자유전학	0
+L25180	"Alagille syndrome, JAG1 sequencing"	L25	분자유전학	0
+L25181	"Osteogenesis Imperfecta (OI), COL1A1/COL1A2 sequencing"	L25	분자유전학	0
+L25182	"Osteogenesis Imperfecta (OI), COL1A1, sequencing"	L25	분자유전학	0
+L25183	"Osteogenesis Imperfecta (OI), COL1A2, sequencing"	L25	분자유전학	0
+L25184	"alpha-Thalassemia, HBA1/HBA2 Sequencing, del/dup"	L25	분자유전학	0
+L25185	"alpha-Thalassemia, HBA1/HBA2, Del/Dup"	L25	분자유전학	0
+L25186	"alpha-Thalassemia, HBA1/HBA2, Sequencing"	L25	분자유전학	0
+L25187	"가족검사 Agammaglobulinemia, X-linked, BTK sequencing"	L25	분자유전학	0
+L25188	"가족검사 Androgen insensitivity syndorme, AR sequencing"	L25	분자유전학	0
+L25189	"가족검사 Long QT syndrome, KCNQ1 sequencing"	L25	분자유전학	0
+L2519	Parvovirus B19 PCR	L25	분자유전학	0
+L25190	"가족검사 Dopa-responsive dystonia, GCH1 sequencing"	L25	분자유전학	0
+L25191	"가족검사 Amyotrophic lateral sclerosis, SOD1 sequencing"	L25	분자유전학	0
+L25192	"가족검사 Hypokalemic periodic paralysis, CACNA1S sequencing"	L25	분자유전학	0
+L25193	"가족검사 Multiple epiphyseal dysplasia, COMP sequencing"	L25	분자유전학	0
+L25194	"가족검사 Multiple epiphyseal dysplasia, MATN3 sequencing"	L25	분자유전학	0
+L25195	"가족검사 Corneal dystrophy, TGFBI sequencing"	L25	분자유전학	0
+L25196	"가족검사 Frontotemporal dementia, MAPT sequencing"	L25	분자유전학	0
+L25197	"가족검사 Polycystic kidney disease 2, Autosomal dominant, PKD2 sequencing"	L25	분자유전학	0
+L25198	"가족검사 Alagille syndrome, JAG1 sequencing"	L25	분자유전학	0
+L25199	"가족검사 Osteogenesis Imperfecta (OI), COL1A1/COL1A2 sequencing"	L25	분자유전학	0
+L2520	Bordetella pertussis PCR	L25	분자유전학	0
+L25200	"가족검사 alpha-Thalassemia, HBA1/HBA2 Sequencing, del/dup"	L25	분자유전학	0
+L25201	"Corneal dystrophy, TGFBI(1), (exon 4, 11-14) sequencing"	L25	분자유전학	0
+L25202	"Corneal dystrophy, TGFBI(2), (exon 1-3, 5-10, 15-17) sequencing"	L25	분자유전학	0
+L25203	"Long QT syndrome, KCNH2 sequencing"	L25	분자유전학	0
+L25204	"Glycogen storage disease type 3, AGL sequencing"	L25	분자유전학	0
+L25205	"Von Willebrand disease, VWF sequencing"	L25	분자유전학	0
+L25206	"가족검사 Long QT syndrome, KCNH2 sequencing"	L25	분자유전학	0
+L25207	"가족검사 Glycogen storage disease type 3, AGL sequencingng"	L25	분자유전학	0
+L25208	"가족검사 von Willebrand disease, VWF sequencing"	L25	분자유전학	0
+L25209	"Tuberous sclerosis, TSC1/TSC2 Sequencing"	L25	분자유전학	0
+L25212	"가족검사, Tuberous sclerosis, TSC1/TSC2 Sequencing"	L25	분자유전학	0
+L25213	"VHL syndrome, VHL sequencing"	L25	분자유전학	0
+L25214	"Marfan Syndrome, FBN1 sequencing"	L25	분자유전학	0
+L25215	"Parkinson disease, PARK2 sequencing"	L25	분자유전학	0
+L25216	"Pendred syndrome, SLC26A4 sequencing"	L25	분자유전학	0
+L25217	"Noonan syndrome, PTPN11 sequencing"	L25	분자유전학	0
+L25218	"Familial hemiplegic migraine, episodic ataxia type 2, CACNA1A sequencing"	L25	분자유전학	0
+L25219	"Neurofibromatosis 1, NF1 sequencing"	L25	분자유전학	0
+L25220	"Hereditary spastic paraplegia, SPG3A sequencing"	L25	분자유전학	0
+L25221	"Protein S deficiency, PROS1 sequencing"	L25	분자유전학	0
+L25222	"Wiskott-Aldrich syndrome, WAS sequencing"	L25	분자유전학	0
+L25223	"Protein C deficiency, PROC sequencing"	L25	분자유전학	0
+L25224	"Antithrombin deficiency, SERPINC1 sequencing"	L25	분자유전학	0
+L25225	"MODY3(maturity-onset diabetes of the young), TCF1 sequencing"	L25	분자유전학	0
+L25226	"OPMD, PABPN1, GCN repeat expansion"	L25	분자유전학	0
+L25227	"Low GGT familial intrahepatic cholestasis, ATP8B1 sequencing"	L25	분자유전학	0
+L25228	"Low GGT familial intrahepatic cholestasis, ABCB11 sequencing"	L25	분자유전학	0
+L25229	"Early-onset familial Alzheimer disease, PSEN1 sequencing"	L25	분자유전학	0
+L25230	"CYP2C19, major genotyping"	L25	분자유전학	0
+L25231	"NAT2, major genotyping"	L25	분자유전학	0
+L25232	"CYP2C9, major genotyping"	L25	분자유전학	0
+L25236	NPM1 mutation	L25	분자유전학	0
+L25237	"Retinoschisis, RS1 sequencing"	L25	분자유전학	0
+L25238	"Multiple endocrine neoplasia type 2, RET sequencing"	L25	분자유전학	0
+L25239	"가족검사 VHL syndrome, VHL sequencing"	L25	분자유전학	0
+L2524	Hantaan virus PCR	L25	분자유전학	0
+L25240	"가족검사, Marfan Syndrome, FBN1 sequencing"	L25	분자유전학	0
+L25241	"가족검사 Parkinson disease, PARK2 sequencing"	L25	분자유전학	0
+L25242	"가족검사 Pendred syndrome, SLC26A4 sequencing"	L25	분자유전학	0
+L25243	"가족검사 Noonan syndrome, PTPN11 sequencing"	L25	분자유전학	0
+L25244	"가족검사 Familial hemiplegic migraine, episodic ataxia type 2, CACNA1A sequencing"	L25	분자유전학	0
+L25245	"가족검사 Neurofibromatosis 1, NF1 sequencing"	L25	분자유전학	0
+L25246	"가족검사 Hereditary spastic paraplegia, SPG3A sequencing"	L25	분자유전학	0
+L25247	"가족검사 Protein S deficiency, PROS1 sequencing"	L25	분자유전학	0
+L25248	"가족검사 Wiskott-Aldrich syndrome, WAS sequencing"	L25	분자유전학	0
+L25249	"가족검사 Protein C deficiency, PROC sequencing"	L25	분자유전학	0
+L2525	Varicella zoster virus PCR	L25	분자유전학	0
+L25250	"가족검사 Antithrombin deficiency, SERPINC1 sequencing"	L25	분자유전학	0
+L25251	"가족검사 MODY3(maturity-onset diabetes of the young), TCF1 sequencing"	L25	분자유전학	0
+L25252	"가족검사 Multiple endocrine neoplasia type 2, RET sequencing"	L25	분자유전학	0
+L25253	"가족검사 Low GGT familial intrahepatic cholestasis, ATP8B1 sequencing"	L25	분자유전학	0
+L25254	"가족검사 Low GGT familial intrahepatic cholestasis, ABCB11 sequencing"	L25	분자유전학	0
+L25255	"가족검사 Early-onset familial Alzheimer disease, PSEN1 sequencing"	L25	분자유전학	0
+L25256	"가족검사 Retinoschisis, RS1 sequencing"	L25	분자유전학	0
+L25257	"LHON, MT-ND1, MT-MD4, MT-ND6 Sequencing"	L25	분자유전학	0
+L25258	"가족검사 LHON, MT-ND1, MT-MD4, MT-ND6 Sequencing"	L25	분자유전학	0
+L25259	"Long QT syndrome, SCN5A sequencing"	L25	분자유전학	0
+L2526	EHEC PCR	L25	분자유전학	0
+L25262	"가족검사 Long QT syndrome, SCN5A sequencing"	L25	분자유전학	0
+L25265	"Familial Hypokalemic periodic paralysis, SCN4A sequencing"	L25	분자유전학	0
+L25266	"Type II collagenopathies, collagen type 2 alpha 1, COL2A1 sequencing"	L25	분자유전학	0
+L25267	"Ehlers-Danlos syndrome type IV, COL3A1 sequencing"	L25	분자유전학	0
+L25268	"Metaphyseal Chondrodysplasia, Schmid Type, COL10A1 sequencing"	L25	분자유전학	0
+L25269	"Optic atrophy type 1, OPA1 sequencing"	L25	분자유전학	0
+L2527	"Human papilloma virus, hybrid capture (high risk)"	L25	분자유전학	0
+L25270	"Menkes disease, ATP7A sequencing"	L25	분자유전학	0
+L25272	FGFR1 sequencing	L25	분자유전학	0
+L25273	FGFR2 sequencing	L25	분자유전학	0
+L25274	FGFR3 sequencing	L25	분자유전학	0
+L25275	"Fibrodysplasia ossificans progressiva(FOP),ACVR1 ,R206H sequencing"	L25	분자유전학	0
+L25276	"NARP, MT-ATP6 sequencing"	L25	분자유전학	0
+L25277	"RPE65, sequencing"	L25	분자유전학	0
+L25279	DMD sequencing	L25	분자유전학	0
+L25280	"SMA, SMN1 and SMN2 del/dup"	L25	분자유전학	0
+L25281	"SMA, SMN1 sequencing[이 검사 전에 L25280 SMA del/dup 검사를 먼저 시행해야 함]"	L25	분자유전학	0
+L25286	Human herpes virus 6(HHV6) PCR	L25	분자유전학	0
+L25291	"가족검사 Familial Hypokalemic periodic paralysis, SCN4A sequencing"	L25	분자유전학	0
+L25292	"가족검사, Type II collagenopathies, collagen type 2 alpha 1, COL2A1 sequencing"	L25	분자유전학	0
+L25293	"가족검사 Ehlers-Danlos syndrome type IV, COL3A1 sequencing"	L25	분자유전학	0
+L25295	"가족검사 Optic atrophy type 1, OPA1 sequencing"	L25	분자유전학	0
+L25296	"가족검사 Menkes disease, ATP7A sequencing"	L25	분자유전학	0
+L25298	가족검사 FGFR1 sequencing	L25	분자유전학	0
+L25299	가족검사 FGFR2 sequencing	L25	분자유전학	0
+L2530	Malaria PCR	L25	분자유전학	0
+L25300	가족검사 FGFR3 sequencing	L25	분자유전학	0
+L25301	"가족검사 FOP,ACVR1 sequencing"	L25	분자유전학	0
+L25302	가족검사 RPE65 sequencing	L25	분자유전학	0
+L25303	가족검사 DMD sequencing	L25	분자유전학	0
+L25304	"가족검사 SMA, SMN1 sequencing"	L25	분자유전학	0
+L25305	"Pandemic Influenza A virus (H1N1) 2009, Real-time RT PCR"	L25	분자유전학	0
+L25306	"Congenital Insensitivity to Pain with Anhidrosis; HSAN Type IV, NTRK1 sequencing"	L25	분자유전학	0
+L25307	"Citrin deficiency, SLC25A13 sequencing"	L25	분자유전학	0
+L25308	"Myoclonus-dystonia, SGCE sequencing"	L25	분자유전학	0
+L25309	UGT1A1 sequencing	L25	분자유전학	0
+L2531	Enterovirus PCR	L25	분자유전학	0
+L25310	"가족검사 Citrin deficiency, SLC25A13 sequencing"	L25	분자유전학	0
+L25311	"가족검사 Myoclonus-dystonia, SGCE sequencing"	L25	분자유전학	0
+L25312	가족검사 UGT1A1 sequencing	L25	분자유전학	0
+L25313	"가족검사 Congenital Insensitivity to Pain with Anhidrosis; HSAN Type IV, NTRK1 sequencing"	L25	분자유전학	0
+L25314	"Cystic fibrosis, CFTR sequencing"	L25	분자유전학	0
+L25315	"가족검사 Cystic fibrosis, CFTR sequencing"	L25	분자유전학	0
+L25316	"Loeys-Dietz syndrome, TGFBR1 sequencing"	L25	분자유전학	0
+L25317	"Loeys-Dietz syndrome, TGFBR2 sequencing"	L25	분자유전학	0
+L25318	"가족검사 Loeys-Dietz syndrome, TGFBR1 sequencing"	L25	분자유전학	0
+L25319	"가족검사 Loeys-Dietz syndrome, TGFBR2 sequencing"	L25	분자유전학	0
+L2532	HIV viral load (정량검사)	L25	분자유전학	0
+L25320	Human herpes virus 8(HHV8) PCR	L25	분자유전학	0
+L25321	"Pompe disease, GAA sequencing"	L25	분자유전학	0
+L25322	"가족검사 Pompe disease, GAA sequencing"	L25	분자유전학	0
+L25323	"Citrullinemia type I, ASS1 sequencing"	L25	분자유전학	0
+L25324	"가족검사 Citrullinemia type I, ASS1 sequencing"	L25	분자유전학	0
+L25325	TPMT(2) gene sequencing	L25	분자유전학	0
+L25326	"CMT2, MFN2 sequencing"	L25	분자유전학	0
+L25327	"가족검사 CMT2, MFN2 sequencing"	L25	분자유전학	0
+L25328	"Galactosemia type II, GALK1 sequencing"	L25	분자유전학	0
+L25329	"Galactosemia, GALE sequencing"	L25	분자유전학	0
+L2533	HCV viral load (정량검사)	L25	분자유전학	0
+L25330	"Aniridia, PAX6 sequencing"	L25	분자유전학	0
+L25331	"가족검사 Galactosemia type II, GALK1 sequencing"	L25	분자유전학	0
+L25332	"가족검사 Galactosemia, GALE sequencing"	L25	분자유전학	0
+L25333	"가족검사 Aniridia, PAX6 sequencing"	L25	분자유전학	0
+L25334	"Ornithine transcarbamylase deficiency, OTC sequencing"	L25	분자유전학	0
+L25335	"가족검사 Ornithine transcarbamylase deficiency, OTC sequencing"	L25	분자유전학	0
+L25337	마이코박테리움 신속동정검사 (TB/NTM ID)	L25	분자유전학	0
+L25339	Influenza A virus subtyping	L25	분자유전학	0
+L25340	"Familial adenomatous polyposis, APC sequencing"	L25	분자유전학	0
+L25341	"Li-Fraumeni syndrome, TP53 sequencing"	L25	분자유전학	0
+L25342	"Hereditary multiple osteochondromas, EXT1 sequencing"	L25	분자유전학	0
+L25343	"Hereditary multiple osteochondromas, EXT2 sequencing"	L25	분자유전학	0
+L25344	"Retinoblastoma, RB1 sequencing"	L25	분자유전학	0
+L25345	"Peutz-Jeghers syndrome, STK11 sequencing"	L25	분자유전학	0
+L25346	"가족검사 Familial adenomatous polyposis, APC sequencing"	L25	분자유전학	0
+L25347	"가족검사 Li-Fraumeni syndrome, TP53 sequencing"	L25	분자유전학	0
+L25348	"가족검사 Hereditary multiple osteochondromas, EXT1 sequencing"	L25	분자유전학	0
+L25349	"가족검사 Hereditary multiple osteochondromas, EXT2 sequencing"	L25	분자유전학	0
+L2535	HBV viral load (정량검사)	L25	분자유전학	0
+L25350	"가족검사 Retinoblastoma, RB1 sequencing"	L25	분자유전학	0
+L25351	"가족검사 Peutz-Jeghers syndrome, STK11 sequencing"	L25	분자유전학	0
+L25352	"Hereditary Non-Polyposis Colon Cancer (HNPCC),MLH1/MSH2 sequencing"	L25	분자유전학	0
+L25355	"가족검사 Hereditary Non-Polyposis Colon Cancer (HNPCC), MLH1/MSH2 sequencing"	L25	분자유전학	0
+L25356	"JAK2, exon 12 sequencing"	L25	분자유전학	0
+L25357	"Pantothenate kinase-associated neurodegeneration, PANK2 gene, sequencing"	L25	분자유전학	0
+L25358	"가족검사 Pantothenate kinase-associated neurodegeneration, PANK2 sequencing"	L25	분자유전학	0
+L25359	"Gaucher disease, GBA sequencing"	L25	분자유전학	0
+L25360	"가족검사 Gaucher disease, GBA sequencing"	L25	분자유전학	0
+L25361	"FLT3, ITD & TKD"	L25	분자유전학	0
+L25362	"Leukemia gene rearrangement (Hemavision), multiplex nested RT-PCR"	L25	분자유전학	0
+L25363	"CBFB-MYH11 rearrangment, 정량, real-time RT-PCR"	L25	분자유전학	0
+L25364	"BCR-ABL1, drug resistant mutation, sequencing"	L25	분자유전학	0
+L25365	"KIT, mutation, sequencing"	L25	분자유전학	0
+L25366	"NRAS mutation (codon 12, 13, 61 포함), sequencing"	L25	분자유전학	0
+L25367	"KRAS mutation (codon 12, 13, 61 포함), sequencing"	L25	분자유전학	0
+L25368	"BAALC mRNA, 정량, real-time RT-PCR"	L25	분자유전학	0
+L25369	"WT1 mRNA, 정량, real-time RT-PCR"	L25	분자유전학	0
+L25370	"NPM1 mutation, mRNA 정량, real-time RT-PCR"	L25	분자유전학	0
+L25371	Microsatellite instability (MSI)	L25	분자유전학	0
+L25372	"EGFR, exon 18-21 sequencing"	L25	분자유전학	0
+L25373	"BRAF, exon 15 sequencing"	L25	분자유전학	0
+L25374	GST genotyping	L25	분자유전학	0
+L25375	"PTEN hamartoma tumor syndrome (PHTS), PTEN sequencing"	L25	분자유전학	0
+L25376	"가족검사 PTEN hamartoma tumor syndrome (PHTS), PTEN sequencing"	L25	분자유전학	0
+L25377	"Juvenile Polyposis Syndrome, SMAD4 sequencing"	L25	분자유전학	0
+L25378	"가족검사 Juvenile Polyposis Syndrome, SMAD4 sequencing"	L25	분자유전학	0
+L25379	"ELANE-related neutropenia, ELANE (ELA2) sequencing"	L25	분자유전학	0
+L2538	HPV genotyping (DNA microarray test)	L25	분자유전학	0
+L25380	"가족검사 ELANE-related neutropenia, ELANE (ELA2) sequencing"	L25	분자유전학	0
+L25381	"Krabbe disease, GALC sequencing"	L25	분자유전학	0
+L25382	"가족검사 Krabbe disease, GALC sequencing"	L25	분자유전학	0
+L25383	"Fibrodysplasia ossificans progressiva(FOP), ACVR1 sequencing"	L25	분자유전학	0
+L25384	"Caffey disease, COL1A1, R836C sequencing"	L25	분자유전학	0
+L25385	Trichomonas vaginalis PCR	L25	분자유전학	0
+L25388	Neisseria gonorrhoeae PCR	L25	분자유전학	0
+L2539	"Human papilloma virus, hybrid capture(low risk)"	L25	분자유전학	0
+L25390	"HBV 약제내성, sequencing"	L25	분자유전학	0
+L25391	HCV genotyping	L25	분자유전학	0
+L25392	Mycoplasma genitalium PCR	L25	분자유전학	0
+L25393	Mycoplasma hominis PCR	L25	분자유전학	0
+L25395	"Congenital adrenal hyperplasia(CAH),CYP21A2 sequencing"	L25	분자유전학	0
+L25396	"가족검사 CAH,CYP21A2 sequencing"	L25	분자유전학	0
+L25397	SCA17	L25	분자유전학	0
+L25400	"Multiple endocrine neoplasia Type 1, MEN1 sequencing"	L25	분자유전학	0
+L25401	"가족검사 Multiple endocrine neoplasia Type 1, MEN1 sequencing"	L25	분자유전학	0
+L25402	"Familial transthyretin amyloidosis, TTR sequencing"	L25	분자유전학	0
+L25403	"가족검사 Familial transthyretin amyloidosis, TTR sequencing"	L25	분자유전학	0
+L25404	"M. tuberculosis PCR (리팜핀내성 포함), 진검시행"	L25	분자유전학	0
+L25406	"Smith-Lemli-Opitz Syndrome, DHCR7 sequencing"	L25	분자유전학	0
+L25407	"가족검사 Smith-Lemli-Opitz Syndrome, DHCR7 sequencing"	L25	분자유전학	0
+L25408	"PLP1, deletion/duplication test [MLPA]"	L25	분자유전학	0
+L25409	VKORC1 genotyping	L25	분자유전학	0
+L2541	IgH rearrangement	L25	분자유전학	0
+L25410	"X-linked adrenoleukodystrophy, ABCD1 sequencing"	L25	분자유전학	0
+L25411	"Familial hemophagocytic lymphohistiocytosis, PRF1 sequencing"	L25	분자유전학	0
+L25412	"Familial hemophagocytic lymphohistiocytosis, UNC13D sequencing"	L25	분자유전학	0
+L25413	"가족검사 X-linked adrenoleukodystrophy, ABCD1 sequencing"	L25	분자유전학	0
+L25414	"가족검사 Familial hemophagocytic lymphohistiocytosis, PRF1 sequencing"	L25	분자유전학	0
+L25415	"가족검사 Familial hemophagocytic lymphohistiocytosis, UNC13D sequencing"	L25	분자유전학	0
+L25418	"FSHD, D4Z4 (PFGE, Southern)"	L25	분자유전학	0
+L25419	"친자확인(개인식별)검사, STR"	L25	분자유전학	0
+L25420	"Incontinentia pigmenti, IKBKG sequencing"	L25	분자유전학	0
+L25421	"Mucopolydaccharidosis type II, IDS sequencing"	L25	분자유전학	0
+L25422	"Gitelman syndrome, SLC12A3 sequencing"	L25	분자유전학	0
+L25423	"Fanconi anemia, FANCA sequencing"	L25	분자유전학	0
+L25424	ABCC8 sequencing	L25	분자유전학	0
+L25425	"Congenital central hypoventilation syndrome (CCHS), PHOX2B sequencing"	L25	분자유전학	0
+L25426	"CHARGE syndrome, CHD7 sequencing"	L25	분자유전학	0
+L25427	"Arylsulfatase A Deficiency, ARSA sequencing"	L25	분자유전학	0
+L25428	"가족검사 Incontinentia pigmenti, IKBKG sequencing"	L25	분자유전학	0
+L25429	"가족검사 Mucopolydaccharidosis type II, IDS sequencing"	L25	분자유전학	0
+L2543	TCR beta rearrangement	L25	분자유전학	0
+L25430	"가족검사 Gitelman syndrome, SLC12A3 sequencing"	L25	분자유전학	0
+L25431	"가족검사 Fanconi anemia, FANCA sequencing"	L25	분자유전학	0
+L25432	가족검사 ABCC8 sequencing	L25	분자유전학	0
+L25433	"가족검사 Congenital central hypoventilation syndrome (CCHS), PHOX2B sequencing"	L25	분자유전학	0
+L25434	"가족검사 CHARGE syndrome, CHD7 sequencing"	L25	분자유전학	0
+L25435	"가족검사 Arylsulfatase A Deficiency, ARSA sequencing"	L25	분자유전학	0
+L25437	"X-SCID, IL2RG sequencing"	L25	분자유전학	0
+L25438	"가족검사, X-SCID, IL2RG sequencing"	L25	분자유전학	0
+L25439	착상전유전진단(PGD)	L25	분자유전학	0
+L2544	TCR gamma rearrangement	L25	분자유전학	0
+L25440	"FGFR3, Pro250Arg mutation"	L25	분자유전학	0
+L25441	"GNE-Related Myopathy, GNE sequencing"	L25	분자유전학	0
+L25442	"가족검사GNE-Related Myopathy, GNE sequencing"	L25	분자유전학	0
+L25443	"Hereditary Paraganglioma-Pheochromocytoma Syndromes, SDHB sequencing"	L25	분자유전학	0
+L25444	"Hereditary Paraganglioma-Pheochromocytoma Syndromes, SDHD sequencing"	L25	분자유전학	0
+L25445	"가족검사, Hereditary Paraganglioma-Pheochromocytoma Syndromes, SDHB sequencing"	L25	분자유전학	0
+L25446	"가족검사, Hereditary Paraganglioma-Pheochromocytoma Syndromes, SDHD sequencing"	L25	분자유전학	0
+L25447	"Arginase deficiency, ARG1 sequencing"	L25	분자유전학	0
+L25448	"Analbuminemia, ALB sequencing"	L25	분자유전학	0
+L25449	"Limb-girdle muscular dystrophy type 2A (LGMD2A), CAPN3 sequencing"	L25	분자유전학	0
+L25450	"Rubinstein Taybi syndrome, CREBBP sequencing"	L25	분자유전학	0
+L25451	"IPEX syndrome, FOXP3 sequencing"	L25	분자유전학	0
+L25452	"Zellweger syndrome, PEX1 sequencing"	L25	분자유전학	0
+L25453	"Glycogen Storage Disease Type V (GSDV, McArdle disease), PYGM sequencing"	L25	분자유전학	0
+L25454	"가족검사, Arginase deficiency, ARG1 sequencing"	L25	분자유전학	0
+L25455	"가족검사, Analbuminemia, ALB sequencing"	L25	분자유전학	0
+L25456	"가족검사, Limb-girdle muscular dystrophy type 2A (LGMD2A), CAPN3 sequencing"	L25	분자유전학	0
+L25457	"가족검사, Rubinstein Taybi syndrome, CREBBP sequencing"	L25	분자유전학	0
+L25458	"가족검사, IPEX syndrome, FOXP3 sequencing"	L25	분자유전학	0
+L25459	"가족검사, Zellweger syndrome, PEX1 sequencing"	L25	분자유전학	0
+L25460	"가족검사, Glycogen Storage Disease Type V (GSDV, McArdle disease), PYGM sequencing"	L25	분자유전학	0
+L25461	"Limb girdle muscular dystrophy 2B, DYSF sequencing"	L25	분자유전학	0
+L25462	"가족검사, Limb girdle muscular dystrophy 2B, DYSF sequencing"	L25	분자유전학	0
+L25463	"Glycogen storage disease type 4, GBE1 gene, sequencing"	L25	분자유전학	0
+L25464	"가족검사, Glycogen storage disease type 4, GBE1 gene, sequencing"	L25	분자유전학	0
+L25465	"Pseudohypoparathyroidism, GNAS gene, sequencing"	L25	분자유전학	0
+L25466	"가족검사 Pseudohypoparathyroidism, GNAS gene, sequencing"	L25	분자유전학	0
+L25467	Carbapenemase gene PCR	L25	분자유전학	0
+L25468	SFTS (Severe fever with thrombocytopenia syndrome) Real-time RT-PCR	L25	분자유전학	0
+L2548	"Major BCR-ABL1 rearrangement, RT-PCR"	L25	분자유전학	0
+L2549	"Minor BCR-ABL1 rearrangement, RT-PCR"	L25	분자유전학	0
+L2550	"PML-RARA rearrangement, RT-PCR"	L25	분자유전학	0
+L2551	"E2A-PBX1 (TCF3-PBX1) rearrangement, RT-PCR"	L25	분자유전학	0
+L2552	"RUNX1-RUNX1T1 (AML1-ETO) rearrangement, RT-PCR"	L25	분자유전학	0
+L2553	"ETV6-RUNX1 (TEL-AML1) rearrangement, RT-PCR"	L25	분자유전학	0
+L2555	Huntington's disease	L25	분자유전학	0
+L2556	DRPLA	L25	분자유전학	0
+L2557	SCA3	L25	분자유전학	0
+L2558	SCA1	L25	분자유전학	0
+L2559	SBMA (Kennedy disease)	L25	분자유전학	0
+L2560	"SCA panel (SCA1,2,3,6,7)"	L25	분자유전학	0
+L2561	Apo-E genotyping	L25	분자유전학	0
+L2562	"DMD/BMD, exon del/dup test"	L25	분자유전학	0
+L2564	"DMD/BMD, linkage test"	L25	분자유전학	0
+L2566	ABO genotyping	L25	분자유전학	0
+L2567	SCA2	L25	분자유전학	0
+L2568	SCA6	L25	분자유전학	0
+L2569	SCA7	L25	분자유전학	0
+L2572	"beta-Thalassemia HBB gene, 확진(sequencing)"	L25	분자유전학	0
+L2574	"Prothrombin thrombophilia, F2, 20210G>A"	L25	분자유전학	0
+L2575	"Factor V Leiden thrombophilia, F5, 1691G>A (R506Q)"	L25	분자유전학	0
+L2576	"Achondroplasia, G380R"	L25	분자유전학	0
+L2578	"LHON, 4종(3460, 11778, 14484, 4171)"	L25	분자유전학	0
+L2581	"BMT monitoring, pre-BMT test (STR)"	L25	분자유전학	0
+L2582	"BMT monitoring, post-BMT test (STR)"	L25	분자유전학	0
+L2583	"LHON, 3종(3460, 11778, 14484)"	L25	분자유전학	0
+L2584	"LHON, MT-ND4, m.11778G>A"	L25	분자유전학	0
+L2585	"LHON, MT-ND6, m.14484T>C"	L25	분자유전학	0
+L2586	"LHON, MT-ND1, m.3460G>A"	L25	분자유전학	0
+L2587	"LHON, MT-ND1, m.4171C>A"	L25	분자유전학	0
+L2593	"MTHFR, 677C>T"	L25	분자유전학	0
+L2594	"Hemochromatosis, C282Y"	L25	분자유전학	0
+L2595	"DYT1, GAG deletion"	L25	분자유전학	0
+L2596	"Norrie Disease, NDP sequencing"	L25	분자유전학	0
+L2597	"Deafness, GJB2 sequencing"	L25	분자유전학	0
+L2598	"Deafness, MT-RNR1, m.1555A>G"	L25	분자유전학	0
+L2599	"Deafness, MT-TS1, m.7445A>G"	L25	분자유전학	0
+L2611	"PraderWilli/Angelman,FISH"	L26	FISH검사	0
+L2613	"DiGeorge-Velocardio, FISH"	L26	FISH검사	0
+L2614	"Kallmann, FISH"	L26	FISH검사	0
+L2615	"Miller-Dieker, FISH"	L26	FISH검사	0
+L26177	"PDGFRβ (5q32-q33), FISH"	L26	FISH검사	0
+L26178	"MM (IGH,D13S319,1q21 gain,p16,4;14,p53,MAF) (Diagnosis & Prognosis) panel, FISH"	L26	FISH검사	0
+L26179	"MM (4;14,D13S319,p53,MAF) (IMWG Risk) panel, FISH"	L26	FISH검사	0
+L26181	"IGH/MAF(14;16) rearrangement, FISH"	L26	FISH검사	0
+L2619	"Williams, FISH"	L26	FISH검사	0
+L2631	"BCR/ABL(9;22) rearrangement, FISH"	L26	FISH검사	0
+L2632	"PML/RARA(15;17) rearrangement, FISH"	L26	FISH검사	0
+L2633	"X/Y Chromosome, FISH"	L26	FISH검사	0
+L2634	"AML1/ETO(8;21) rearrangement, FISH"	L26	FISH검사	0
+L2635	"TEL/AML1(12;21) rearrangement, FISH"	L26	FISH검사	0
+L2636	"HER-2/neu gene ISO17q, FISH"	L26	FISH검사	0
+L2637	"EGR(5q31) deletion, FISH"	L26	FISH검사	0
+L2638	"13q14.3(D13S25) deletion, FISH"	L26	FISH검사	0
+L2639	"CSF1R(5q33-q34) deletion, FISH"	L26	FISH검사	0
+L2640	"D7S522(7q31) deletion, FISH"	L26	FISH검사	0
+L2646	"CEP 08, FISH"	L26	FISH검사	0
+L2647	"CEP 12, FISH"	L26	FISH검사	0
+L2651	"D20S108(20q12) deletion, FISH"	L26	FISH검사	0
+L2652	"p53(17p13) deletion, FISH"	L26	FISH검사	0
+L2653	"ALK[t(2;5),2p23] rearrangement, FISH"	L26	FISH검사	0
+L2654	"MLL(11q23) rearrangement, FISH"	L26	FISH검사	0
+L2655	"CBFB(inv16), FISH"	L26	FISH검사	0
+L2656	"IGH/CCND1(11;14) rearrangement, FISH"	L26	FISH검사	0
+L2657	"13q14 deletion, FISH"	L26	FISH검사	0
+L2661	"N-myc(2p23-p24), FISH"	L26	FISH검사	0
+L2662	"c-myc(8q24), FISH"	L26	FISH검사	0
+L2665	"Androgen receptor(Xq12), FISH"	L26	FISH검사	0
+L2667	"Rb1(13q14) deletion, FISH"	L26	FISH검사	0
+L2669	"RARA rearrangement, FISH"	L26	FISH검사	0
+L2670	"Iso(17q), FISH"	L26	FISH검사	0
+L2671	"21q22 deletion, FISH"	L26	FISH검사	0
+L2672	"22q11.2 deletion, FISH"	L26	FISH검사	0
+L2673	"IGH/BCL2(14;18) rearrangement, FISH"	L26	FISH검사	0
+L2681	"Paraffin pretreatment, FISH"	L26	FISH검사	0
+L2682	"FGFR1 (8p11), FISH"	L26	FISH검사	0
+L2683	Eosinophil A panel_ FISH	L26	FISH검사	0
+L2684	Eosinophil B panel_ FISH	L26	FISH검사	0
+L2819	"13q14.3( D13S319) deletion, FISH"	L26	FISH검사	1
+L2821	"MYC (8q24) rearrangement, FISH"	L26	FISH검사	1
+L2822	"IGH (14q32.3) rearrangement, FISH"	L26	FISH검사	1
+L2823	"IGH/MYC(8;14) rearrangement, FISH"	L26	FISH검사	1
+L2824	"IGH/FGFR3(4;14) rearrangement, FISH"	L26	FISH검사	1
+L2825	"p16 (9p21) deletion, FISH"	L26	FISH검사	1
+L2826	"BCL6 (3q27) rearrangement, FISH"	L26	FISH검사	1
+L2827	"MALT 1(18q21) rearrangement, FISH"	L26	FISH검사	1
+L2828	"1q(1q21) gain, FISH"	L26	FISH검사	1
+L2830	"PDGFRα[CHIC2, del(4)(q12q12)] deletion, FISH"	L26	FISH검사	1
+L2831	"SRY(Yp11.3) deletion, FISH"	L26	FISH검사	1
+L2840	"EGFR/CEP 7, FISH"	L26	FISH검사	1
+L2842	"EWSR1 gene (22q12), FISH"	L26	FISH검사	1
+L2847	"1p36/1q25 & 19q13/19p13, FISH"	L26	FISH검사	1
+L2848	"TCF-3(19p13) split, FISH"	L26	FISH검사	1
+L2849	"TLX-3(5q35) split, FISH"	L26	FISH검사	1
+L2851	"AML(8;21, 15;17, MLL, CBFB) A panel, FISH"	L26	FISH검사	1
+L2852	"AML(8;21,15;17,MLL) B panel, FISH"	L26	FISH검사	1
+L2853	"ALL(9;22,12;21,MLL,p16) Child A panel, FISH"	L26	FISH검사	1
+L2854	"ALL(9;22,MLL,p16) Adult B panel, FISH"	L26	FISH검사	1
+L2855	"MDS,AA (5q,7q,CEP8,1q,20q12) A panel, FISH"	L26	FISH검사	1
+L2856	"MDS,AA (5q, CEP8,1q) B panel, FISH"	L26	FISH검사	1
+L2857	"MPN (9;22,20q12,13q14) panel, FISH"	L26	FISH검사	1
+L2858	"MPN-BC(9;22,I(17q),CEP8) panel, FISH"	L26	FISH검사	1
+L2859	"T-ALL (p16,TLX3,1q21) panel, FISH"	L26	FISH검사	1
+L2860	"Lymphoma(p16,IGH,BCL6,1q25) B-cell panel, FISH"	L26	FISH검사	1
+L2865	"CLL (ATM, CEP12, 13q, p53, 11;14) panel, FISH"	L26	FISH검사	1
+L2866	"MDS panel A + AML panel A, FISH"	L26	FISH검사	1
+L2867	"BAL(ALL+8;21) panel, FISH"	L26	FISH검사	1
+L2868	"IGH(14q32), FICTION-FISH"	L26	FISH검사	1
+L2870	"1q21 gain, FICTION-FISH"	L26	FISH검사	1
+L2871	"p16(9p21), FICTION-FISH"	L26	FISH검사	1
+L2872	"ATM gene, FISH"	L26	FISH검사	1
+L2601	"Chromosome, constitutional"	L28	염색체검사	1
+L2602	"Chromosome, malignancy"	L28	염색체검사	1
+L2605	Chromosome breakage test for Fanconi anemia (MMC-stress법)	L28	염색체검사	1
+L2606	Chromosome breakage test for Fanconi anemia(DEB-stress법)	L28	염색체검사	1
+L3001	Admission Panel	L30	일반화학(1)	0
+L30011	Admission Panel(Cholesterol 제외)	L30	일반화학(1)	0
+L3002	Liver Panel 1	L30	일반화학(1)	0
+L3003	Calcium	L30	일반화학(1)	0
+L3004	Phosphorus	L30	일반화학(1)	0
+L3005	Glucose	L30	일반화학(1)	0
+L3006	BUN	L30	일반화학(1)	0
+L3007	Uric Acid	L30	일반화학(1)	0
+L3008	Cholesterol	L30	일반화학(1)	0
+L3009	"Protein, total"	L30	일반화학(1)	0
+L3010	Albumin	L30	일반화학(1)	0
+L30101	VBGA	L30	일반화학(1)	0
+L30102	Cord ABGA	L30	일반화학(1)	0
+L3011	"Bilirubin, total"	L30	일반화학(1)	0
+L3012	Alkaline phosphatase (ALP)	L30	일반화학(1)	0
+L3014	GOT (AST)	L30	일반화학(1)	0
+L3015	GPT (ALT)	L30	일반화학(1)	0
+L3016	GGT	L30	일반화학(1)	0
+L3018	"Bilirubin, direct"	L30	일반화학(1)	0
+L3020	Amylase(S)	L30	일반화학(1)	0
+L3022	CK (CPK)	L30	일반화학(1)	0
+L3023	LD (LDH)	L30	일반화학(1)	0
+L3025	ADA (Adenosine deaminase)	L30	일반화학(1)	0
+L3026	GOT/GPT Panel	L30	일반화학(1)	0
+L3031	Cystatin C (소아진검시행)	L30	일반화학(1)	0
+L3041	Creatinine	L30	일반화학(1)	0
+L3042	Cystatin C	L30	일반화학(1)	0
+L3043	Sodium (serum)	L30	일반화학(1)	0
+L3044	Potassium (serum)	L30	일반화학(1)	0
+L3045	Chloride (serum)	L30	일반화학(1)	0
+L3046	Electrolyte Panel-TCO2포함	L30	일반화학(1)	0
+L30462	Electrolyte Panel-TCO2제외	L30	일반화학(1)	0
+L3047	"CO2, total (serum)"	L30	일반화학(1)	0
+L3051	Iron	L30	일반화학(1)	0
+L3052	TIBC	L30	일반화학(1)	0
+L3053	Iron Panel	L30	일반화학(1)	0
+L3059	Lipid Panel-B	L30	일반화학(1)	0
+L3060	Lipid Panel-A	L30	일반화학(1)	0
+L30601	Admission+Lipid A Panel	L30	일반화학(1)	0
+L30602	Admission+Lipid B Panel	L30	일반화학(1)	0
+L30603	Liver+Lipid A Panel (γ-GT포함)	L30	일반화학(1)	0
+L30604	Liver+Lipid B Panel (γ-GT포함)	L30	일반화학(1)	0
+L30605	Liver+Lipid A Panel (γ-GT제외)	L30	일반화학(1)	0
+L30606	Liver+Lipid B Panel (γ-GT제외)	L30	일반화학(1)	0
+L3061	Triglyceride (TG)	L30	일반화학(1)	0
+L3062	HDL-Cholesterol	L30	일반화학(1)	0
+L3065	Apolipoprotein A1	L30	일반화학(1)	0
+L3066	Apolipoprotein B	L30	일반화학(1)	0
+L3068	LDL-Cholesterol	L30	일반화학(1)	0
+L3069	Magnesium	L30	일반화학(1)	0
+L3070	Renal Panel	L30	일반화학(1)	0
+L30701	"NGAL, quantitative test"	L30	일반화학(1)	0
+L3071	"1,5 AG (Anhydro-D-Glucitol)"	L30	일반화학(1)	0
+L3072	Liver Panel 2(γ-GT제외)	L30	일반화학(1)	0
+L3073	Glycoalbumin	L30	일반화학(1)	0
+L3074	Renal Panel(CO2제외)	L30	일반화학(1)	0
+L3075	Ammonia	L30	일반화학(1)	0
+L3076	B-type Natriuretic Peptide (BNP)	L30	일반화학(1)	0
+L3077	"Calcium, ionized"	L30	일반화학(1)	0
+L3078	Ketone bodies	L30	일반화학(1)	0
+L3079	Lipase	L30	일반화학(1)	0
+L3080	Osmolality (serum)	L30	일반화학(1)	0
+L3081	CSF LD	L30	일반화학(1)	0
+L3082	ABGA	L30	일반화학(1)	0
+L3083	CO-OXIMETER	L30	일반화학(1)	0
+L3084	CK-MB	L30	일반화학(1)	0
+L3085	Troponin I	L30	일반화학(1)	0
+L3086	Myoglobin	L30	일반화학(1)	0
+L3087	"Procalcitonin, quantitation (PCT)"	L30	일반화학(1)	0
+L3088	Protein (Body Fluid Except CSF)	L30	일반화학(1)	0
+L3089	CSF Protein	L30	일반화학(1)	0
+L3090	CSF Glucose	L30	일반화학(1)	0
+L3091	CSF Chloride	L30	일반화학(1)	0
+L3092	hs-CRP quantitation	L30	일반화학(1)	0
+L3093	CSF Amylase	L30	일반화학(1)	0
+L3094	Glucose (Body Fluid Except CSF)	L30	일반화학(1)	0
+L3095	Chloride (Body Fluid Except CSF)	L30	일반화학(1)	0
+L3096	LD (Body Fluid Except CSF)	L30	일반화학(1)	0
+L3097	Amylase (Body Fluid Except CSF)	L30	일반화학(1)	0
+L3098	Body Fluid Chemistry (Except CSF)	L30	일반화학(1)	0
+L3099	CSF Chemistry	L30	일반화학(1)	0
+L3522	Immunoglobulin G	L30	일반화학(1)	1
+L3523	Immunoglobulin A	L30	일반화학(1)	1
+L3524	Immunoglobulin M	L30	일반화학(1)	1
+L3527	Complement C3	L30	일반화학(1)	1
+L3529	Complement C4	L30	일반화학(1)	1
+L3539	"α-fetoprotein (직원신검용,소아진검)"	L30	일반화학(1)	1
+L5171	"RPR(VDRL,AUTO) 24시간검사시행,소아진검"	L30	일반화학(1)	1
+HCSL3141	"Cotinine, urine"	L31	일반화학(2)	1
+L3101	Sodium (24hrs Urine)	L31	일반화학(2)	0
+L31010	Sodium (random urine)	L31	일반화학(2)	0
+L3102	Potassium (24hrs Urine)	L31	일반화학(2)	0
+L31020	Potassium (random urine)	L31	일반화학(2)	0
+L3103	Chloride (24hrs Urine)	L31	일반화학(2)	0
+L31030	Chloride (random urine)	L31	일반화학(2)	0
+L3104	Calcium (24hrs Urine)	L31	일반화학(2)	0
+L31040	Calcium (random urine)	L31	일반화학(2)	0
+L3105	Magnesium (24hrs Urine)	L31	일반화학(2)	0
+L31050	Magnesium (random urine)	L31	일반화학(2)	0
+L3106	Phosphorus (24hrs Urine)	L31	일반화학(2)	0
+L31060	Phosphorus (random urine)	L31	일반화학(2)	0
+L3107	Uric acid (24hrs Urine)	L31	일반화학(2)	0
+L31070	Uric acid (random urine)	L31	일반화학(2)	0
+L3108	Glucose quan. (24hrs Urine)	L31	일반화학(2)	0
+L31080	Glucose quan. (random urine)	L31	일반화학(2)	0
+L3109	Protein (24hrs Urine)	L31	일반화학(2)	0
+L31090	Protein (random urine)	L31	일반화학(2)	0
+L3111	Creatinine (24hrs Urine)	L31	일반화학(2)	0
+L31110	Creatinine (random urine)	L31	일반화학(2)	0
+L3112	Creatinine Clerarance (Ccr)	L31	일반화학(2)	0
+L3113	Urea nitrogen (24hrs Urine)	L31	일반화학(2)	0
+L31130	Urea nitrogen (random urine)	L31	일반화학(2)	0
+L3115	Amylase (24hrs Urine)	L31	일반화학(2)	0
+L31150	Amylase (random urine)	L31	일반화학(2)	0
+L3116	Amylase clearance	L31	일반화학(2)	0
+L3117	Microalbumin (24hrs urine)	L31	일반화학(2)	0
+L31170	Microalbumin (random urine)	L31	일반화학(2)	0
+L3118	Oxalate (24hrs urine)	L31	일반화학(2)	0
+L31180	Oxalate (random urine)	L31	일반화학(2)	0
+L3119	Citrate (24hrs urine)	L31	일반화학(2)	0
+L31190	Citrate (random urine)	L31	일반화학(2)	0
+L3120	Electrolyte Panel (24hrs urine)	L31	일반화학(2)	0
+L31200	Electrolyte Panel (random urine)	L31	일반화학(2)	0
+L3121	PET(Peritoneal Equilibration Test)	L31	일반화학(2)	0
+L3122	KT/V Peritoneal Dialysis Efficiency Test	L31	일반화학(2)	0
+L3123	NAG(N-acetylglucosaminidase) (random urine)	L31	일반화학(2)	0
+L3124	fractional excretion of sodium(FENa)	L31	일반화학(2)	0
+L3125	tubular reabsorption of phosphate(TRP)	L31	일반화학(2)	0
+L3150	Osmolality (urine)	L31	일반화학(2)	0
+L3151	transtubular potassium gradient (TTKG)	L31	일반화학(2)	0
+L3156	Cotinine	L31	일반화학(2)	0
+L3301	FBS (serum)	L33	당부하검사	0
+L3302	PP 30 min (serum)	L33	당부하검사	0
+L3303	PP1 (serum)	L33	당부하검사	0
+L3304	PP 90 min (serum)	L33	당부하검사	0
+L3305	PP2 (serum)	L33	당부하검사	0
+L3306	PP3 (serum)	L33	당부하검사	0
+L3311	HbA1c	L33	당부하검사	0
+L3320	FBS (urine)	L33	당부하검사	0
+L3321	PP30 (urine)	L33	당부하검사	0
+L3322	PP1 (urine)	L33	당부하검사	0
+L3323	PP 90 min (urine)	L33	당부하검사	0
+L3324	PP2 (urine)	L33	당부하검사	0
+L3325	PP3 (urine)	L33	당부하검사	0
+L3326	PP( )min (urine)	L33	당부하검사	0
+L3402	Phenobarbital	L34	약물및중금속	0
+L3403	Carbamazepine (serum level)	L34	약물및중금속	0
+L3405	Phenytoin (serum level)	L34	약물및중금속	0
+L3411	Theophylline (serum level)	L34	약물및중금속	0
+L3412	Gentamicin 농도 (serum level)	L34	약물및중금속	0
+L3413	MTX (Methotrexate) (serum level)	L34	약물및중금속	0
+L3418	Lithium (serum)	L34	약물및중금속	0
+L34222	크롬(Cr)	L34	약물및중금속	0
+L34223	코발트(Co)	L34	약물및중금속	0
+L3423	Valproic Acid (serum level)	L34	약물및중금속	0
+L3436	Amikacin 농도 (serum level)	L34	약물및중금속	0
+L3437	Tobramycin 농도 (serum level)	L34	약물및중금속	0
+L3440	Opiate	L34	약물및중금속	0
+L34401	Methamphetamines-국제진료센터	L34	약물및중금속	0
+L34402	Opiates-국제진료센터	L34	약물및중금속	0
+L34403	Cocaine(코카인)	L34	약물및중금속	0
+L34404	Cannabinoids-국제진료센터	L34	약물및중금속	0
+L3441	Digoxin (serum level)	L34	약물및중금속	0
+L3442	Lactate	L34	약물및중금속	0
+L3444	Vancomycin (serum level)	L34	약물및중금속	0
+L3445	Tacrolimus (FK-506)(serum level)	L34	약물및중금속	0
+L34451	"Tacrolimus(24시간 신속검사,소아진단검사의학과시행)"	L34	약물및중금속	0
+L344602	Phenobarbital - TDM	L34	약물및중금속	0
+L344603	Carbamazepine - TDM	L34	약물및중금속	0
+L344605	Phenytoin - TDM	L34	약물및중금속	0
+L344611	Theophylline - TDM	L34	약물및중금속	0
+L344612	Gentamicin TDM (자문)	L34	약물및중금속	0
+L344618	Lithium - TDM	L34	약물및중금속	0
+L344623	Valproic Acid - TDM	L34	약물및중금속	0
+L344636	Amikacin TDM (자문)	L34	약물및중금속	0
+L344637	Tobramycin TDM (자문)	L34	약물및중금속	0
+L344641	Digoxin - TDM	L34	약물및중금속	0
+L344644	Vancomycin - TDM	L34	약물및중금속	0
+L344645	Tacrolimus (FK-506) TDM (자문)	L34	약물및중금속	0
+L3447	MPA (mycophenolic acid) (plasma level)	L34	약물및중금속	0
+L3451	Phenobarbital TDM Panel(농도+자문)	L34	약물및중금속	0
+L3452	Carbamazepine TDM Panel(농도+자문)	L34	약물및중금속	0
+L3453	Phenytoin TDM Panel(농도+자문)	L34	약물및중금속	0
+L3454	Theophylline TDM Panel(농도+자문)	L34	약물및중금속	0
+L3455	Gentamicin TDM Panel(농도+자문)	L34	약물및중금속	0
+L3456	Valproic Acid TDM Panel(농도+자문)	L34	약물및중금속	0
+L3457	Amikacin TDM Panel(농도+자문)	L34	약물및중금속	0
+L3458	Tobramycin TDM Panel(농도+자문)	L34	약물및중금속	0
+L3460	Digoxin TDM Panel(농도+자문)	L34	약물및중금속	0
+L3461	Vancomycin TDM Panel(농도+자문)	L34	약물및중금속	0
+L3462	Lithium TDM Panel(농도+자문)	L34	약물및중금속	0
+L3465	Sirolimus	L34	약물및중금속	0
+L3471	Everolimus	L34	약물및중금속	0
+L3472	Busulfan	L34	약물및중금속	0
+L3473	Voriconazole(연구용)	L34	약물및중금속	0
+L34741	Levetiracetam	L34	약물및중금속	0
+L34742	Topiramate	L34	약물및중금속	0
+L34743	Oxcarbazepine(MHD)	L34	약물및중금속	0
+L34744	Lamotrigine	L34	약물및중금속	0
+L3717	SHBG	L34	약물및중금속	1
+L3501	"PEP (protein electrophoresis, serum)"	L35	단백면역화학	0
+L3505	LD isoenzyme	L35	단백면역화학	0
+L3507	Haptoglobin	L35	단백면역화학	0
+L3508	Ceruloplasmin	L35	단백면역화학	0
+L3509	α₁-Antitrypsin	L35	단백면역화학	0
+L3510	Transferrin	L35	단백면역화학	0
+L3511	Selectivity Index	L35	단백면역화학	0
+L35111	Select. index	L35	단백면역화학	0
+L35112	Select. Index Serum Transferine	L35	단백면역화학	0
+L35113	Select. Index Urine Transferine	L35	단백면역화학	0
+L35114	Immunoglobulin G (serum)	L35	단백면역화학	0
+L35115	Immumoglobulin G (urine)	L35	단백면역화학	0
+L3520	Immunoelectrophoresis (serum)	L35	단백면역화학	0
+L3530	"Kappa Free Light Chain, serum"	L35	단백면역화학	0
+L3531	CSF Albumin	L35	단백면역화학	0
+L3532	CSF IgG	L35	단백면역화학	0
+L3533	Prealbumin	L35	단백면역화학	0
+L3537	"Immunofixation electrophoresis (IFE, serum)"	L35	단백면역화학	0
+L35371	"Immunofixation electrophoresis (IFE, urine)"	L35	단백면역화학	0
+L3538	"Lp(a), Lipoprotein(a)"	L35	단백면역화학	0
+L3540	LDL particle size 분석	L35	단백면역화학	0
+L3542	"Lambda Free Light Chain, serum"	L35	단백면역화학	0
+L35421	"κ/λ ratio, serum"	L35	단백면역화학	0
+L3551	"PEP (protein electrophoresis, urine)"	L35	단백면역화학	0
+L3552	Immunoelectrophoresis (urine)	L35	단백면역화학	0
+L3553	Troponin T	L35	단백면역화학	0
+L3554	"Kappa Free Light Chain, urine"	L35	단백면역화학	0
+L3555	"Lambda Free Light Chain, urine"	L35	단백면역화학	0
+L35551	"κ/λ ratio, urine"	L35	단백면역화학	0
+L35561	Pepsinogen Ⅰ	L35	단백면역화학	0
+L35562	Pepsinogen Ⅱ	L35	단백면역화학	0
+L3705	Anti-TSHr	L37	특수화학검사	0
+L37121	Metanephrine	L37	특수화학검사	0
+L37122	Normetanephrine	L37	특수화학검사	0
+L3729	CYFRA 21-1	L37	특수화학검사	0
+L3730	PIVKA-II	L37	특수화학검사	0
+L3731	Plasma Hb	L37	특수화학검사	0
+L3732	Homocysteine	L37	특수화학검사	0
+L3733	Neuron specific enolase (NSE)	L37	특수화학검사	0
+L3742	C-Telopeptide (CTX)	L37	특수화학검사	0
+L3743	Parathyroid hormone (PTH)	L37	특수화학검사	0
+L3753	sFlt-1/PlGF	L37	특수화학검사	0
+L3762	Fructose (semen)	L37	특수화학검사	0
+L3767	ICG test	L37	특수화학검사	0
+L3770	pro Brain natriuretic peptide(proBNP)	L37	특수화학검사	0
+L3771	Prostate Specific Antigen(PSA)	L37	특수화학검사	0
+L3772	Free Prostate Specific Antigen(Free PSA)	L37	특수화학검사	0
+L3773	Physical stone analysis	L37	특수화학검사	0
+L3781	"Ferritin(24시간 신속검사,진단검사의학과시행)"	L37	특수화학검사	0
+L3782	"Cyclosporine (24시간 신속검사,소아진단검사의학과시행)"	L37	특수화학검사	0
+L3783	iPTH(수술장용)	L37	특수화학검사	0
+L3784	Pre-Incision iPTH(수술장용)	L37	특수화학검사	0
+L3785	Pre-Excision iPTH (수술장용)	L37	특수화학검사	0
+L3786	Post 5min.iPTH(수술장용)	L37	특수화학검사	0
+L3787	Post 10min.iPTH(수술장용)	L37	특수화학검사	0
+L3788	Tissue fluid. iPTH(수술장용)	L37	특수화학검사	0
+L3791	RBC membrane protein	L37	특수화학검사	0
+L6101	UA	L37	특수화학검사	1
+L6153	Dysmorphic RBC	L37	특수화학검사	1
+L4002	Gram stain	L40	일반미생물	0
+L4005	"Gram stain, Respiratory specimen culture"	L40	일반미생물	0
+L4006	"Gram stain, Gastrointestinal specimen culture"	L40	일반미생물	0
+L4007	"Gram stain, Genitourinary specimen culture"	L40	일반미생물	0
+L4008	"Gram stain, Others culture"	L40	일반미생물	0
+L4009	"Gram stain, Body fluid culture"	L40	일반미생물	0
+L4011	"Gram stain, BAL Quantitative culture"	L40	일반미생물	0
+L4017	Blood culture	L40	일반미생물	0
+L4035	VRE screening test	L40	일반미생물	0
+L4036	MRSA screening test	L40	일반미생물	0
+L4037	IRAB culture	L40	일반미생물	0
+L4038	Campylobacter jejuni/coli culture	L40	일반미생물	0
+L4039	Yersinia enterocolitica culture	L40	일반미생물	0
+L4040	CRE screening test	L40	일반미생물	0
+L4041	"Gram stain, Surgery"	L40	일반미생물	0
+L4102	AFB panel 1 (AFB stain/culture)	L41	결핵균검사	0
+L41021	AFB Panel(결핵접촉자 검진사업)	L41	결핵균검사	0
+L4112	"항결핵약제신속내성검사: RMP,INH"	L41	결핵균검사	0
+L4115	MTB Drug Susceptibility	L41	결핵균검사	0
+L4116	NTM Drug Susceptibility	L41	결핵균검사	0
+L4117	"AFB panel 2 (AFB stain/culture, TB/NTM PCR)"	L41	결핵균검사	0
+L4120	Acid Fast Fluorescent Stain	L41	결핵균검사	0
+L4122	AFB culture	L41	결핵균검사	0
+L4307	Cryptococcus Ag	L43	미생물특수	0
+L4318	Rotavirus Ag	L43	미생물특수	0
+L4322	Adenovirus antigen	L43	미생물특수	0
+L4324	"C.difficile toxin assay, stool"	L43	미생물특수	0
+L4325	RSV IFA	L43	미생물특수	0
+L4326	Adenovirus IFA	L43	미생물특수	0
+L4327	Influenza virus Type A IFA	L43	미생물특수	0
+L4328	Influenza virus Type B IFA	L43	미생물특수	0
+L4329	ParaInfluenza virus Type1 IFA	L43	미생물특수	0
+L4330	ParaInfluenza virus Type2 IFA	L43	미생물특수	0
+L4331	ParaInfluenza virus Type3 IFA	L43	미생물특수	0
+L4332	Varicella-zoster virus DFA	L43	미생물특수	0
+L4334	RSV antigen test	L43	미생물특수	0
+L4338	Influenza A/B virus 신속항원검사	L43	미생물특수	0
+L4341	Legionella urinary antigen test	L43	미생물특수	0
+L4342	Streptococcus pneumoniae urinary antigen test	L43	미생물특수	0
+L4355	Diarrhea virus Antigen panel	L43	미생물특수	0
+L4356	Norovirus Antigen	L43	미생물특수	0
+L4358	"Calprotectin, Quantitative (Low level)"	L43	미생물특수	0
+L4359	"Calprotectin, Quantitative (High level)"	L43	미생물특수	0
+L4360	Pneumocystis jirovesii 형광염색(PCP형광염색)	L43	미생물특수	0
+L4361	Carba NP test	L43	미생물특수	0
+L4401	Herpes Simplex virus culture	L44	바이러스배양	0
+L4402	Cytomegalovirus culture	L44	바이러스배양	0
+L4403	Respiratory Syncytial V. culture	L44	바이러스배양	0
+L4404	Adenovirus culture	L44	바이러스배양	0
+L4405	Influenza virus culture Panel	L44	바이러스배양	0
+L4406	Parainfluenza virus culture Panel	L44	바이러스배양	0
+L4407	Enterovirus culture	L44	바이러스배양	0
+L4408	Varicella Zoster Virus culture	L44	바이러스배양	0
+L4412	Ureaplasma culture	L44	바이러스배양	0
+L4413	M. hominis culture	L44	바이러스배양	0
+L4420	Herpes virus(3종) culture Panel (HSV/CMV/VZV)	L44	바이러스배양	0
+L4502	India ink	L45	진균검사	0
+L4512	"진균 검경, Respiratory fungus culture"	L45	진균검사	0
+L4513	"진균 검경, Gastrointestinal fungus culture"	L45	진균검사	0
+L4514	"진균 검경, Genitourinary fungus culture"	L45	진균검사	0
+L4515	"진균 검경, Others specimen fungus culture"	L45	진균검사	0
+L4516	"진균 검경, Blood fungus culture"	L45	진균검사	0
+L4517	"진균 검경, Body fluid fungus culture"	L45	진균검사	0
+L4520	진균 검경	L45	진균검사	0
+L5005	"HLA-A(DNA,high)"	L50	세포면역검사	0
+L50051	"HLA-A,Donor (high)"	L50	세포면역검사	0
+L5006	"HLA-B(DNA,high)"	L50	세포면역검사	0
+L50061	"HLA-B,Donor (high)"	L50	세포면역검사	0
+L5007	Neutrophil H2O2 DHR Test	L50	세포면역검사	0
+L5009	HLA crossmatch panel	L50	세포면역검사	0
+L50091	"HLA crossmatch, B-FLOW"	L50	세포면역검사	0
+L50092	"HLA crossmatch,T-AHG"	L50	세포면역검사	0
+L50093	"HLA crossmatch,T-FLOW"	L50	세포면역검사	0
+L50094	HLA 항체 단일항원동정검사 class I	L50	세포면역검사	0
+L50095	HLA 항체 단일항원동정검사 class II	L50	세포면역검사	0
+L50096	"HLA crossmatch,T-NIH (약어: HLA-XM,T-NIH)"	L50	세포면역검사	0
+L5010	"HLA-DR(DNA,low)"	L50	세포면역검사	0
+L50101	"HLA-DR,Donor (low)"	L50	세포면역검사	0
+L5012	"HLA-DQ(DNA,high)"	L50	세포면역검사	0
+L50121	"HLA-DQ,Donor (high)"	L50	세포면역검사	0
+L5013	HLA-B27	L50	세포면역검사	0
+L5014	"HLA-Cw(DNA,high)"	L50	세포면역검사	0
+L50141	"HLA-C,Donor (high)"	L50	세포면역검사	0
+L5015	"HLA-DQ(DNA,low)"	L50	세포면역검사	0
+L50151	"HLA-DQ,Donor (low)"	L50	세포면역검사	0
+L5021	CD3(Pan T)	L50	세포면역검사	0
+L50211	CD4/CD8 ratio (BAL)	L50	세포면역검사	0
+L5022	CD4(H/I T)	L50	세포면역검사	0
+L5023	CD8(S/C T)	L50	세포면역검사	0
+L50321	CD19(B cell)-Subset용	L50	세포면역검사	0
+L5035	CD16/CD56(NK cell)	L50	세포면역검사	0
+L5055	"T cell subset panel(CD3,CD4,CD8)"	L50	세포면역검사	0
+L50581	"PRA선별,class I"	L50	세포면역검사	0
+L50582	"PRA선별,class II"	L50	세포면역검사	0
+L50591	"PRA동정,class I"	L50	세포면역검사	0
+L50592	"PRA동정,class II"	L50	세포면역검사	0
+L5073	"HLA-A(DNA,low)"	L50	세포면역검사	0
+L50731	"HLA-A,Donor (low)"	L50	세포면역검사	0
+L5074	"HLA-B(DNA,low)"	L50	세포면역검사	0
+L50741	"HLA-B,Donor (low)"	L50	세포면역검사	0
+L5075	"HLA-Cw(DNA,low)"	L50	세포면역검사	0
+L5076	"HLA-DR(DNA,high)"	L50	세포면역검사	0
+L50761	"HLA-DR,Donor (high)"	L50	세포면역검사	0
+L5087	TB Specific Ag induced Interferon gamma	L50	세포면역검사	0
+L5101	ASO	L51	혈청검사	0
+L5103	Rheumatoid factor	L51	혈청검사	0
+L5105	RPR정성(serum)	L51	혈청검사	0
+L5106	RPR정량(serum)	L51	혈청검사	0
+L5108	FTA-ABS	L51	혈청검사	0
+L5110	Syphilis TP antibody(Serum)	L51	혈청검사	0
+L5111	HBsAg	L51	혈청검사	0
+L5112	Anti-HBs	L51	혈청검사	0
+L5113	Syphilis TP antibody(CSF)	L51	혈청검사	0
+L51131	Anti-SSA(Ro) Ab	L51	혈청검사	0
+L51132	Anti-SSB(La) Ab	L51	혈청검사	0
+L5115	HTLV Antibody	L51	혈청검사	0
+L5117	"HIV(Ag,Ab)"	L51	혈청검사	0
+L5118	Anti-HCV	L51	혈청검사	0
+L5122	Cold agglutinin	L51	혈청검사	0
+L5123	Cryoglobulin	L51	혈청검사	0
+L5128	Antinuclear Ab(FANA)	L51	혈청검사	0
+L5132	Mycoplasma Ab	L51	혈청검사	0
+L5134	Toxoplasma IgG Ab	L51	혈청검사	0
+L5135	Toxoplasma IgM Ab	L51	혈청검사	0
+L5140	H. pylori IgG Ab	L51	혈청검사	0
+L5141	Antinuclear Ab titer(FANA)	L51	혈청검사	0
+L5142	CMV IgM Ab	L51	혈청검사	0
+L5143	Rubella IgM Ab	L51	혈청검사	0
+L5144	Rubella IgG Ab	L51	혈청검사	0
+L5145	Herpes simplex IgM Ab	L51	혈청검사	0
+L5146	EBV VCA IgM Ab	L51	혈청검사	0
+L5147	Herpes simplex IgG Ab	L51	혈청검사	0
+L51471	"Varicella zoster Ab, IgG"	L51	혈청검사	0
+L5148	EBV VCA IgG Ab	L51	혈청검사	0
+L5150	"MAST, Inhalant panel"	L51	혈청검사	0
+L5151	"MAST, Food panel"	L51	혈청검사	0
+L5152	ECP (ImmunoCAP)	L51	혈청검사	0
+L5154	CMV IgG Ab	L51	혈청검사	0
+L5155	Anti-CCP (Anti-cyclic citrullinated peptide antibody)	L51	혈청검사	0
+L5156	"d1,IgE(ImmunoCAP)-D.pteronyssinus"	L51	혈청검사	0
+L5157	"d2,IgE(ImmunoCAP)-D.farinae"	L51	혈청검사	0
+L5158	"d1,IgG4(ImmunoCAP)-D.pteronyssinus"	L51	혈청검사	0
+L5159	"d2,IgG4(ImmunoCAP)-D.farinae"	L51	혈청검사	0
+L5160	Total IgE (ImmunoCAP)	L51	혈청검사	0
+L5161	"HAV Ab IgM(24시간 신속검사,소아진단검사의학과시행)"	L51	혈청검사	0
+L5162	HBeAg(진검시행)	L51	혈청검사	0
+L5163	HBeAb(진검시행)	L51	혈청검사	0
+L5164	AMH(Anti-Mullerian hormone)	L51	혈청검사	0
+L5165	HBsAg quantitation	L51	혈청검사	0
+L5169	Paraneoplastic Ab (부종양성항체)	L51	혈청검사	0
+L5170	HIV보건원의뢰검사	L51	혈청검사	0
+L5172	Aspergillus Ag-galactomannan	L51	혈청검사	0
+L5173	HBcAb(IgG)(진검시행)	L51	혈청검사	0
+L5174	HBcAb(IgM)(진검시행)	L51	혈청검사	0
+L5175	VDRL정성(CSF Only)	L51	혈청검사	0
+L5176	VDRL정량(CSF Only)	L51	혈청검사	0
+L51771	"i6,IgE(ImmunoCAP)-Cockroach"	L51	혈청검사	0
+L51772	"e1,IgE(ImmunoCAP)-Cat"	L51	혈청검사	0
+L51773	"e5,IgE(ImmunoCAP)-Dog"	L51	혈청검사	0
+L51774	"gx2,IgE(ImmunoCAP)-grass mixture"	L51	혈청검사	0
+L51775	"tx9,IgE(ImmunoCAP)-tree mixture"	L51	혈청검사	0
+L51776	"wx5,IgE(ImmunoCAP)-weed mixture"	L51	혈청검사	0
+L51777	Specific IgE F1-계란흰자	L51	혈청검사	0
+L51778	Specific IgE F2-우유	L51	혈청검사	0
+L51779	Specific IgE F4-밀	L51	혈청검사	0
+L51780	Specific IgE F11-메밀	L51	혈청검사	0
+L51781	Specific IgE F13-땅콩	L51	혈청검사	0
+L51782	Specific IgE F14-콩	L51	혈청검사	0
+L5201	"T3(24시간 검사시행, 진검)"	L51	혈청검사	1
+L5202	"T4(free)(24시간 검사시행, 진검)"	L51	혈청검사	1
+L5203	"TSH(24시간 검사시행, 진검)"	L51	혈청검사	1
+L52011	"T3(24시간검사시행,진검)"	L52	"호르몬,종양표지자검사"	0
+L52021	"T4(free)(24시간검사시행,진검)"	L52	"호르몬,종양표지자검사"	0
+L52031	"TSH(24시간검사시행,진검)"	L52	"호르몬,종양표지자검사"	0
+L5205	LH(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5206	FSH(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5207	"Cortisol(Serum)(24시간검사시행,진검)"	L52	"호르몬,종양표지자검사"	0
+L5211	E2(Estradiol)(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5212	Insulin(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5214	PTH(intact)	L52	"호르몬,종양표지자검사"	0
+L5215	"AFP(24시간검사시행,진검)"	L52	"호르몬,종양표지자검사"	0
+L5216	"β-HCG(serum)(24시간검사시행,진검)"	L52	"호르몬,종양표지자검사"	0
+L5217	Progesterone	L52	"호르몬,종양표지자검사"	0
+L5219	Folate(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5220	Thyroglobulin(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5221	C-Peptide(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5222	Vitamine B12(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5224	CA 19-9(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5225	CA-125(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5226	SCC(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5227	CA 15-3(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5230	Anti-Thyroglobulin Ab (진검시행)	L52	"호르몬,종양표지자검사"	0
+L5231	Anti TPO Ab(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5232	CEA(진검시행)	L52	"호르몬,종양표지자검사"	0
+L5233	Pro GRP (진검시행)	L52	"호르몬,종양표지자검사"	0
+L5234	ACTH(Adrenocorticotropic Hormone)	L52	"호르몬,종양표지자검사"	0
+L5235	Human epididymis protein 4 (HE4)	L52	"호르몬,종양표지자검사"	0
+L5237	Growth hormone (GH)	L52	"호르몬,종양표지자검사"	0
+L5238	Prolactin	L52	"호르몬,종양표지자검사"	0
+L5239	Testosterone	L52	"호르몬,종양표지자검사"	0
+L5240	Insulin-Like Growth Factor 1	L52	"호르몬,종양표지자검사"	0
+L6001	Stool exam (parasite)	L60	기생충검사	0
+L6002	"Helminth, ova"	L60	기생충검사	0
+L6003	Protozoa	L60	기생충검사	0
+L6010	Human hemoglobin	L60	기생충검사	0
+L6032	Malaria	L60	기생충검사	0
+L6033	Filaria	L60	기생충검사	0
+L6034	"Fat, qual."	L60	기생충검사	0
+L60341	Fatty acid	L60	기생충검사	0
+L60342	Neutral fat	L60	기생충검사	0
+L6035	P.w.ova	L60	기생충검사	0
+L6036	C. pavum	L60	기생충검사	0
+L6131	Microscopy(검사24시간가능)	L61	요검사	0
+L6143	Hemosiderin	L61	요검사	0
+L6154	U/A (Stick + Microscopy) PANEL	L61	요검사	0
+L6155	hCG (urine)	L61	요검사	0
+L7020	ABO typing	L70	혈액은행검사	0
+L7021	Rh typing	L70	혈액은행검사	0
+L7022	골수이식용 Two way cross matching	L70	혈액은행검사	0
+L7023	Direct Coombs` test(검사중단)	L70	혈액은행검사	0
+L7024	Indirect Coombs` test(검사중단)	L70	혈액은행검사	0
+L7025	Antibody screening	L70	혈액은행검사	0
+L7026	Ab identification	L70	혈액은행검사	0
+L7027	Isoagglutinin titer(검사중단)	L70	혈액은행검사	0
+L70271	Blood Group Antibody Quantification(IgG anti-A)	L70	혈액은행검사	0
+L70272	Blood Group Antibody Quantification(IgG anti-B)	L70	혈액은행검사	0
+L70273	Blood Group Antibody Quantification(IgM anti-A)	L70	혈액은행검사	0
+L70274	Blood Group Antibody Quantification(IgM anti-B)	L70	혈액은행검사	0
+L7028	RhD Ab titer	L70	혈액은행검사	0
+L7029	ABO/Rh Panel	L70	혈액은행검사	0
+L7032	"헌혈실용(ABO, Rh 검사, HBsAg, Anti-HIV, Anti-HCV, Anti-HTLV, Hb,ALT, VDRL)"	L70	혈액은행검사	0
+L7033	Other blood typing	L70	혈액은행검사	0
+L7034	Antibody elution	L70	혈액은행검사	0
+L7035	Secretor test(검사중단)	L70	혈액은행검사	0
+L7036	Donath-Landsteiner Ab	L70	혈액은행검사	0
+L7037	Coombs` Anti-Ig G	L70	혈액은행검사	0
+L7040	Coombs` Anti-C₃d	L70	혈액은행검사	0
+L7041	K antigen	L70	혈액은행검사	0
+L7042	k antigen	L70	혈액은행검사	0
+L7044	Emergency Donor Test	L70	혈액은행검사	0
+L7048	Polyethylene Glycol	L70	혈액은행검사	0
+L7049	Polybrene test(검사중단)	L70	혈액은행검사	0
+L7050	T & S (ABO/Rh Type & Antibody Screening)	L70	혈액은행검사	0
+L7056	ABO Subgroup test(일시검사중단)	L70	혈액은행검사	0
+L7057	"A,B Transferase test(검사중단)"	L70	혈액은행검사	0
+L7060	Lea antigen	L70	혈액은행검사	0
+L7061	Leb antigen	L70	혈액은행검사	0
+L7062	M antigen	L70	혈액은행검사	0
+L7063	N antigen	L70	혈액은행검사	0
+L7064	S antigen	L70	혈액은행검사	0
+L7065	s antigen	L70	혈액은행검사	0
+L7066	Fya antigen	L70	혈액은행검사	0
+L7067	Fyb antigen	L70	혈액은행검사	0
+L7068	Jka antigen	L70	혈액은행검사	0
+L7069	JKb antigen	L70	혈액은행검사	0
+L7071	A1 antigen	L70	혈액은행검사	0
+L7072	H antigen	L70	혈액은행검사	0
+L7075	Du혈액형검사	L70	혈액은행검사	0
+L7076	"Rh-Hr Subgroup혈액형검사(C, c, E, e)"	L70	혈액은행검사	0
+L70761	C antigen	L70	혈액은행검사	0
+L70762	c antigen	L70	혈액은행검사	0
+L70763	E antigen	L70	혈액은행검사	0
+L70764	e antigen	L70	혈액은행검사	0
+L7077	Direct Coombs` test	L70	혈액은행검사	0
+L7078	Indirect Coombs` test	L70	혈액은행검사	0
+L7079	혈소판항체검사(검사일시중단)	L70	혈액은행검사	0
+L7080	"헌혈실용(ABO,Hb,ALT,VDRL)"	L70	혈액은행검사	0
+L7081	혈액형아형 검사	L70	혈액은행검사	0
+L7082	P1 antigen	L70	혈액은행검사	0
+L7101	"1,25(OH)2 vitamin D3(외주)"	L71	외주검사	0
+L71011	Amylase EP(S)(U)	L71	외주검사	0
+L71012	Bile Acid	L71	외주검사	0
+L71013	항 아쿠아포린4 IgG	L71	외주검사	0
+L71014	뉴로파마젠 (Neuropharmagen)	L71	외주검사	0
+L7103	11-DOCS	L71	외주검사	0
+L7104	11-Deoxycortisol (11-DOC)(외주)	L71	외주검사	0
+L7105	11-OHCS(외주)	L71	외주검사	0
+L7106	17-Hydroxy-Pregnenolone(외주)	L71	외주검사	0
+L7107	17-KS(외주)	L71	외주검사	0
+L7108	18-OH-Deoxycorticosterone(외주)	L71	외주검사	0
+L7110	acid phosphotase(ACP)(외주)	L71	외주검사	0
+L7111	Adenovirus 1 NT(외주)	L71	외주검사	0
+L7112	Adenovirus 2 NT(외주)	L71	외주검사	0
+L7113	Adenovirus 3 NT(외주)	L71	외주검사	0
+L7114	Adenovirus 4 NT(외주)	L71	외주검사	0
+L7115	Adenovirus 5 NT(외주)	L71	외주검사	0
+L7116	Adenovirus 6 NT(외주)	L71	외주검사	0
+L7117	Adenovirus 7 NT(외주)	L71	외주검사	0
+L7118	Adenovirus 8 NT(외주)	L71	외주검사	0
+L7119	Adenovirus 11 NT(외주)	L71	외주검사	0
+L7120	Adenovirus 19 NT(외주)	L71	외주검사	0
+L7121	Adenovirus Type 37(외주)	L71	외주검사	0
+L7122	Aldolase(외주)	L71	외주검사	0
+L7123	Aluminium(serum)(외주)	L71	외주검사	0
+L7124	Androstenedione(외주)	L71	외주검사	0
+L7125	Androsterone(외주)	L71	외주검사	0
+L7126	Angiotesin 2(외주)	L71	외주검사	0
+L7127	Angiotensin converting enzyme (ACE)(외주)	L71	외주검사	0
+L7128	Anti gastric perietal (AGP) Ab(외주)	L71	외주검사	0
+L7129	GBM Ab	L71	외주검사	0
+L7130	Anti-Jo 1 Ab(외주)	L71	외주검사	0
+L7131	Anti-MAG Ab(외주)	L71	외주검사	0
+L7132	Anti-mitochondrial Ab (AMA)(외주)	L71	외주검사	0
+L7133	Anti-neutrophil cytoplasmic Ab (ANCA)(외주)	L71	외주검사	0
+L7134	Anti-RNP Ab(외주)	L71	외주검사	0
+L7135	SCL70 Ab	L71	외주검사	0
+L7136	Smith Ab(외주)	L71	외주검사	0
+L7137	Smooth muscle Ab(SMA)(외주)	L71	외주검사	0
+L7138	Anti-SSA/Ro Ab(외주)	L71	외주검사	0
+L7139	Anti-SSB/La Ab(외주)	L71	외주검사	0
+L71401	ASCA IgA 항체검사	L71	외주검사	0
+L71402	ASCA IgG 항체검사	L71	외주검사	0
+L71403	ASCA 항체검사	L71	외주검사	0
+L71404	Aquaporin-4 Antibody [Flow Cytometry]	L71	외주검사	0
+L71405	MOG-Ab (FACS live cell assay)	L71	외주검사	0
+L7142	C1 esterase inhibitor(외주)	L71	외주검사	0
+L71421	PRA 동정(Class I)(외주)	L71	외주검사	0
+L71422	PRA 동정(Class II)(외주)	L71	외주검사	0
+L7145	Cadmium(외주)	L71	외주검사	0
+L7147	Chlamidia Trachomatis Ab IgG(외주)	L71	외주검사	0
+L7148	Chromium(외주)	L71	외주검사	0
+L7149	Clonazepam(외주)	L71	외주검사	0
+L7150	"CMV Ab IgG (EIA, Titer)(외주)"	L71	외주검사	0
+L7151	Collagen IV(외주)	L71	외주검사	0
+L7152	Collagen IV-7S(외주)	L71	외주검사	0
+L7153	Coxsackie A Ab type 2(외주)	L71	외주검사	0
+L7154	Coxsackie A Ab type 3(외주)	L71	외주검사	0
+L7155	Coxsackie A Ab type 4(외주)	L71	외주검사	0
+L7156	Coxsackie A Ab type 5(외주)	L71	외주검사	0
+L7157	Coxsackie A Ab type 6(외주)	L71	외주검사	0
+L7158	Coxsackie A Ab type 7(외주)	L71	외주검사	0
+L7159	Coxsackie A Ab type 9(외주)	L71	외주검사	0
+L7160	Coxsackie A Ab type 10(외주)	L71	외주검사	0
+L7161	Coxsackie A Ab type 16(외주)	L71	외주검사	0
+L7162	Coxsackie B Ab type 1(외주)	L71	외주검사	0
+L7163	Coxsackie B Ab type 2(외주)	L71	외주검사	0
+L7164	Coxsackie B Ab type 3(외주)	L71	외주검사	0
+L7165	Coxsackie B Ab type 4(외주)	L71	외주검사	0
+L7166	Coxsackie B Ab type 5(외주)	L71	외주검사	0
+L7167	Coxsackie B Ab type 6(외주)	L71	외주검사	0
+L7168	Creatine(외주)	L71	외주검사	0
+L7171	"EBV EA Ab, IgA(외주)"	L71	외주검사	0
+L7172	"EBV EA Ab, IgG (EIA, Titer)(외주)"	L71	외주검사	0
+L7173	"EBV EA Ab, IgM(외주)"	L71	외주검사	0
+L7174	"EBV EBNA Ab, IgG (EIA, Titer)(외주)"	L71	외주검사	0
+L7175	"EBV VCA Ab, IgA(외주)"	L71	외주검사	0
+L7177	Echovirus Ab type 1(외주)	L71	외주검사	0
+L7178	Echovirus Ab type 3(외주)	L71	외주검사	0
+L7179	Echovirus Ab type 4(외주)	L71	외주검사	0
+L7180	Echovirus Ab type 5(외주)	L71	외주검사	0
+L7181	Echovirus Ab type 6(외주)	L71	외주검사	0
+L7182	Echovirus Ab type 7(외주)	L71	외주검사	0
+L7183	Echovirus Ab type 9(외주)	L71	외주검사	0
+L7184	Echovirus Ab type 11(외주)	L71	외주검사	0
+L7185	Echovirus Ab type 12(외주)	L71	외주검사	0
+L7186	Echovirus Ab type 13(외주)	L71	외주검사	0
+L7188	Echovirus Ab type 16(외주)	L71	외주검사	0
+L7189	Echovirus Ab type 17(외주)	L71	외주검사	0
+L7190	Echovirus Ab type 18(외주)	L71	외주검사	0
+L7191	Echovirus Ab type 19(외주)	L71	외주검사	0
+L7192	Echovirus Ab type 21(외주)	L71	외주검사	0
+L7193	Echovirus Ab type 22(외주)	L71	외주검사	0
+L7194	Echovirus Ab type 24(외주)	L71	외주검사	0
+L7195	Echovirus Ab type 25(외주)	L71	외주검사	0
+L7196	Echovirus Ab type 30(외주)	L71	외주검사	0
+L7197	Enterovirus Ab type 70(외주)	L71	외주검사	0
+L7198	Enterovirus Ab type 71(외주)	L71	외주검사	0
+L7199	Erythropoietin(EPO)(외주)	L71	외주검사	0
+L7201	ESR(외주)	L71	외주검사	1
+L7202	Estriol(외주)	L71	외주검사	1
+L7203	FTA-ABS IgM 19S(외주)	L71	외주검사	1
+L7205	Gastrin(외주)	L71	외주검사	1
+L7206	GD1 B Ab IgG(외주)	L71	외주검사	1
+L7207	GD1 B Ab IgM(외주)	L71	외주검사	1
+L7208	Glucagon(외주)	L71	외주검사	1
+L7209	Anti-GM1 IgG isotype(외주)	L71	외주검사	1
+L7210	Anti-GM1 IgM isotype(외주)	L71	외주검사	1
+L72100	Tryptase(외주)	L71	외주검사	1
+L72102	ADAMTS-13	L71	외주검사	1
+L7211	Hantan virus Ab (quan)(외주)	L71	외주검사	1
+L7217	Herpes simplex virus Type I Ig G Ab(외주)	L71	외주검사	1
+L7218	Herpes simplex virus Type II Ig G Ab(외주)	L71	외주검사	1
+L7219	"Herpes simplex virus Ab, IgG(외주)"	L71	외주검사	1
+L7223	Hydroxyproline(외주)	L71	외주검사	1
+L7224	IgG subclass I(외주)	L71	외주검사	1
+L72240	PAI-1(Plasminogen Activator Inhibitor-1) Immunologica(외주)	L71	외주검사	1
+L7225	IgG subclass II(외주)	L71	외주검사	1
+L7226	IgG subclass III(외주)	L71	외주검사	1
+L7227	IgG subclass IV(외주)	L71	외주검사	1
+L7228	Infuluenza virus Ab type A(외주)	L71	외주검사	1
+L7229	Infuluenza virus Ab type B(외주)	L71	외주검사	1
+L7230	Insulin Ab(외주)	L71	외주검사	1
+L7231	Insulin receptor Ab(외주)	L71	외주검사	1
+L7232	Intrinsic factor Ab(외주)	L71	외주검사	1
+L723221	CMA(AF)	L71	외주검사	1
+L72323	Free Kappa light chain(Urine)	L71	외주검사	1
+L72324	Free Lambda light chain(Urine)	L71	외주검사	1
+L72325	κ/λ ratio(Urine)	L71	외주검사	1
+L72326	Krebs von den Lungen-6 (KL-6)	L71	외주검사	1
+L7233	Ketone body fraction(외주)	L71	외주검사	1
+L7234	Legionelle Ab(외주)	L71	외주검사	1
+L7235	Leptospira Ab(외주)	L71	외주검사	1
+L7236	Lyme Ab (B. burgdroferi)(외주)	L71	외주검사	1
+L72361	질병관리본부 기타검사	L71	외주검사	1
+L72362	Zika virus_임신부(질병관리본부)	L71	외주검사	1
+L7241	Hg (mercury)(외주)	L71	외주검사	1
+L7242	metanephrine(외주)	L71	외주검사	1
+L72422	"Metanephrine(Meta, Normeta, Urine)(외주)"	L71	외주검사	1
+L7246	Myelin basic protein(외주)	L71	외주검사	1
+L7249	Neopterin(외주)	L71	외주검사	1
+L7251	Parainfluenza virus Ab type 1(외주)	L71	외주검사	1
+L7252	Parainfluenza virus Ab type 2(외주)	L71	외주검사	1
+L7253	Parainfluenza virus Ab type 3(외주)	L71	외주검사	1
+L7254	Parainfluenza virus Ab type 4(외주)	L71	외주검사	1
+L7255	"Pepsinogen I, II ratio(외주)"	L71	외주검사	1
+L7256	Phospholipid(외주)	L71	외주검사	1
+L7258	Pyruvate(외주)	L71	외주검사	1
+L7259	"Respiratory syntcytial virus Ab, IgG(외주)"	L71	외주검사	1
+L7260	"Respiratory synctial virus Ab, IgM(외주)"	L71	외주검사	1
+L7262	Citrate (24hrs urine)(외주)	L71	외주검사	1
+L72621	Citrate (random urine)(외주)	L71	외주검사	1
+L7264	Rickettsia Tsutsugamushi Ab(외주)	L71	외주검사	1
+L7268	Somatomedin C(외주)	L71	외주검사	1
+L7270	Thromboxane B2(외주)	L71	외주검사	1
+L7271	Total lipid(외주)	L71	외주검사	1
+L7273	Toxoplasma Ab IgM(외주)	L71	외주검사	1
+L7274	"Tumor necrosis factor, alpha(외주)"	L71	외주검사	1
+L7276	VZV IgG (Varicella zoster Ab IgG)(외주)	L71	외주검사	1
+L7277	VZV IgM (Varicella zoster Ab IgM)(외주)	L71	외주검사	1
+L7278	Very long chain fatty acid (VLCFA)(외주)	L71	외주검사	1
+L7280	Organic acid(외주)	L71	외주검사	1
+L7281	VWF ristocetin cofactor(외주)	L71	외주검사	1
+L7282	VWF: Ag(외주)	L71	외주검사	1
+L7283	Ts Ab (Thyroid stimulating Ab)(외주)	L71	외주검사	1
+L7284	Elastase I (stool)(외주)	L71	외주검사	1
+L7286	"기생충 항체, 4종, serum(외주)"	L71	외주검사	1
+L72860	Parasite specific Ab IgG(외주)	L71	외주검사	1
+L7287	"기생충 항체, 4종, CSF(외주)"	L71	외주검사	1
+L72871	Toxocariosis(외주)	L71	외주검사	1
+L72872	Echinococcus Ab(외주)	L71	외주검사	1
+L72873	Fasciola hepatica Ab(외주)	L71	외주검사	1
+L72874	Trichinella Ab(외주)	L71	외주검사	1
+L72875	Anisakis Ab(외주)	L71	외주검사	1
+L7288	"기생충 항체, 4종, other (body fluid)(외주)"	L71	외주검사	1
+L7291	TBPE(외주)	L71	외주검사	1
+L72924	"Catecholamine (NE, Epinephrine, Dopamine, blood)(외주)"	L71	외주검사	1
+L72925	"Catecholamine (NE, Epinephrine, Dopamine, urine)(외주)"	L71	외주검사	1
+L7293	Free testosterone(외주)	L71	외주검사	1
+L7294	ALP isoenzyme(외주)	L71	외주검사	1
+L7296	모발미네랄중금속검사 TMA(Tissue Mineral Analysis)(외주)	L71	외주검사	1
+L72963	Stone analysis (Physical)	L71	외주검사	1
+L7300	ADH(외주)	L71	외주검사	1
+L7303	Anti-neutrophil cytoplasmic Ab (ANCA) titer(외주)	L71	외주검사	1
+L7324	Hb EP(외주)	L71	외주검사	1
+L7325	Oligoclonal band(외주)	L71	외주검사	1
+L7327	17-OHCS(외주)	L71	외주검사	1
+L7330	5-HIAA(외주)	L71	외주검사	1
+L7331	HBV YMDD Mutation(외주)	L71	외주검사	1
+L7332	"Total porphyrin (urine), qual.(외주)"	L71	외주검사	1
+L7335	Coproporphyrin (24h urine)(외주)	L71	외주검사	1
+L7336	Uroporphyrin (24h urine)(외주)	L71	외주검사	1
+L7337	PBG (qual.)(외주)	L71	외주검사	1
+L7338	PBG (quan.)(외주)	L71	외주검사	1
+L7339	δ-ALA(외주)	L71	외주검사	1
+L73391	Salicylate (Aspirin)(외주)	L71	외주검사	1
+L73392	Treponema pallidium PCR (외주)	L71	외주검사	1
+L7340	Free fatty acid (FFA)(외주)	L71	외주검사	1
+L7341	Heterophile Ab(외주)	L71	외주검사	1
+L7342	Amoeba Ab(외주)	L71	외주검사	1
+L7343	Primidone (serum level)(외주)	L71	외주검사	1
+L7347	C1 esterase inhibitor activity(외주)	L71	외주검사	1
+L7350	Chlamydia pneumoniae PCR(외주)	L71	외주검사	1
+L7351	Chlamydia pneumoniae Ab. IgG(외주)	L71	외주검사	1
+L7352	Chlamydia pneumoniae Ab. IgM(외주)	L71	외주검사	1
+L7353	Mycoplasma pneumoniae Ab. IgG(외주)	L71	외주검사	1
+L7354	Mycoplasma pneumoniae Ab. IgM(외주)	L71	외주검사	1
+L7356	ANCA 정량(MPO Ab)(외주)	L71	외주검사	1
+L7357	ANCA 정량(Pr III Ab)(외주)	L71	외주검사	1
+L7358	Nuclear Matrix Protein 22 (NMP22)(외주)	L71	외주검사	1
+L7359	"α1-Antitrypsin, Stool(외주)"	L71	외주검사	1
+L7360	Lipoprotein EP(외주)	L71	외주검사	1
+L7361	CK isoenzyme(외주)	L71	외주검사	1
+L7362	PAP(Prostatic Acid Phosphatase)(외주)	L71	외주검사	1
+L7363	Protein E.P (CSF)(외주)	L71	외주검사	1
+L7364	Tick-Borne Encephalitis (진드기매개 뇌염)(외주)	L71	외주검사	1
+L7366	DPD (Deoxypyridinoline)(외주)	L71	외주검사	1
+L7368	adrenal 21-hydroxylase autoantibody(외주)	L71	외주검사	1
+L7371	Anti delta Ab (HDV Ab)(외주)	L71	외주검사	1
+L7372	Se(Selenium)(외주)	L71	외주검사	1
+L7373	Amphetamine(외주)	L71	외주검사	1
+L7374	Methamphetamine(외주)	L71	외주검사	1
+L7375	Amniotic Fluid L/S ratio(외주)	L71	외주검사	1
+L73771	Complement Hemolysis 50(외주)	L71	외주검사	1
+L7379	NTx (N-telopeptide)(외주)	L71	외주검사	1
+L7381	"뎅기열(Dengue virus Ab,보건원의뢰)(외주)"	L71	외주검사	1
+L7382	"브루셀라(Anti Brucella Ab,국립보건원의뢰)(외주)"	L71	외주검사	1
+L7383	"일본뇌염(J.E.B Ab,질병관리본부)(외주)"	L71	외주검사	1
+L7384	"웨스트나일(West Nile Virus Ab,국립보건원의뢰)(외주)"	L71	외주검사	1
+L7385	발진열(질병관리본부)(외주)	L71	외주검사	1
+L7386	"Q열(Q fever,질병관리본부)(외주)"	L71	외주검사	1
+L7387	"크로이츠펠트 야콥병(Protein 14-3-3,CJD,국립보건원의뢰)(외주)"	L71	외주검사	1
+L7388	Stool enteric virus(질병관리본부)(외주)	L71	외주검사	1
+L7389	리슈마니아증(질병관리본부)(외주)	L71	외주검사	1
+L7390	"백일해(Bordetella pertussis,서울 보건환경연구원 의뢰)(외주)"	L71	외주검사	1
+L7391	"Cu(Copper,Urine)(외주)"	L71	외주검사	1
+L7392	Islet Cell Ab(외주)	L71	외주검사	1
+L7393	Cu(tissue)(외주)	L71	외주검사	1
+L7394	Anti-LKM-1(외주)	L71	외주검사	1
+L7395	HER-2/neu(Serum)(외주)	L71	외주검사	1
+L7397	Fatty Acids 4 종(외주)	L71	외주검사	1
+L73971	PTH related peptide(외주)	L71	외주검사	1
+L7398	Fatty Acids 12 종(외주)	L71	외주검사	1
+L73981	Alcohol(ethanol)(외주)	L71	외주검사	1
+L7399	Fatty Acids 34 종(외주)	L71	외주검사	1
+L74024	Specific IgE F10 (Sesame seed)	L71	외주검사	1
+L74031	"Specific IgE F323 (nGal d 3 Conalbumin, Egg)"	L71	외주검사	1
+L74032	Specific IgE F233 (Ovomucoid)	L71	외주검사	1
+L74034	Specific IgE F232 (Ovalbumin)	L71	외주검사	1
+L74107	Infliximab Quantification [High Quality Immunoassay]	L71	외주검사	1
+L7418	Zn (serum)(외주)	L71	외주검사	1
+L7419	Cu (serum)(외주)	L71	외주검사	1
+L7435	HD유전체 대사 운동 영양(32종)	L71	외주검사	1
+L74361	Aspergillus Ag	L71	외주검사	1
+L74372	Specific IgE F25(토마토)	L71	외주검사	1
+L74381	Pro GRP(외주)	L71	외주검사	1
+L74391	MAST 93종(외주)	L71	외주검사	1
+L74400	Anti-IA-2 antibody	L71	외주검사	1
+L74403	AchE	L71	외주검사	1
+L74404	Rubella Virus RT-PCR	L71	외주검사	1
+L74405	Toxoplasma DNA PCR	L71	외주검사	1
+L74406	인터루킨2 수용체	L71	외주검사	1
+L74408	인터루킨-10(외주)	L71	외주검사	1
+L74409	디하이드로 테스토스테론	L71	외주검사	1
+L74410	IL-6	L71	외주검사	1
+L7453	"PG I,II Ratio"	L71	외주검사	1
+L7455	Zinc(Urine)(외주)	L71	외주검사	1
+L74551	Vit.E (HPLC법에의한검사)(외주)	L71	외주검사	1
+L7458	Vitamin B6 Profile(외주)	L71	외주검사	1
+L7462	"Carbamazepine,epoxide(외주)"	L71	외주검사	1
+L7463	Lead (blood)(외주)	L71	외주검사	1
+L7464	Imipramine(외주)	L71	외주검사	1
+L7465	Desipramine(외주)	L71	외주검사	1
+L7466	Amitriptyline(외주)	L71	외주검사	1
+L7467	Nortriptyline(외주)	L71	외주검사	1
+L7472	Protein C Ag(Immunological)(외주)	L71	외주검사	1
+L7473	Protein S Ag(Immunological)(외주)	L71	외주검사	1
+L7475	"Penicilloyl G, c1(ImmunoCAP)(외주)"	L71	외주검사	1
+L7476	"Penicilloyl V, c2(ImmunoCAP)(외주)"	L71	외주검사	1
+L7479	"Cefaclor, c7(ImmunoCAP)(외주)"	L71	외주검사	1
+L74801	"i6,IgE(ImmunoCAP)-Cockroach(외주)"	L71	외주검사	1
+L74802	"e1,IgE(ImmunoCAP)-Cat dander(외주)"	L71	외주검사	1
+L74804	"m3,IgE(ImmunoCAP)-Aspergillus fumigatus(외주)"	L71	외주검사	1
+L74805	"m6,IgE(ImmunoCAP)-Alternaria alternata(외주)"	L71	외주검사	1
+L74815	FX5E-Food mix(ImmunoCAP)(외주)	L71	외주검사	1
+L74816	F27-(ImmunoCAP)-쇠고기(외주)	L71	외주검사	1
+L74817	F50(ImmunoCAP)-고등어(외주)	L71	외주검사	1
+L74818	F95(ImmunoCAP)-복숭아(외주)	L71	외주검사	1
+L74819	F9(ImmunoCAP)-쌀(외주)	L71	외주검사	1
+L7482	Aspergillus Ab IgG(외주)	L71	외주검사	1
+L74820	F80(ImmunoCAP)-바닷가재(외주)	L71	외주검사	1
+L74821	W22(ImmunoCAP)-환삼덩굴(외주)	L71	외주검사	1
+L74822	F256(ImmunoCAP)-호두(외주)	L71	외주검사	1
+L74823	F256(ImmunoCAP)-호두(외주)	L71	외주검사	1
+L74824	I1(ImmunoCAP)-꿀벌(외주)	L71	외주검사	1
+L74825	I2(ImmunoCAP)-흰말벌(외주)	L71	외주검사	1
+L74826	I3(ImmunoCAP)-말벌(외주)	L71	외주검사	1
+L74827	I4(ImmunoCAP)-쌍살벌(외주)	L71	외주검사	1
+L74828	I5(ImmunoCAP)-호박벌(외주)	L71	외주검사	1
+L74829	F5(ImmunoCAP)-호밀(외주)	L71	외주검사	1
+L74830	F84(ImmunoCAP)-키위(외주)	L71	외주검사	1
+L74831	F207(ImmunoCAP)-대합조개(외주)	L71	외주검사	1
+L74832	F290(ImmunoCAP)-굴(외주)	L71	외주검사	1
+L74833	K82(ImmunoCAP)-Latex(외주)	L71	외주검사	1
+L74834	C202(ImmunoCAP)-Suxamethonium(외주)	L71	외주검사	1
+L74835	F23(ImmunoCAP)-Crab(외주)	L71	외주검사	1
+L74836	F24(ImmunoCAP)-Shrimp(외주)	L71	외주검사	1
+L74837	F346(ImmunoCAP)-Abalone(전복)(외주)	L71	외주검사	1
+L74838	Specific IgE F6(Barley)(외주)	L71	외주검사	1
+L74839	Specific IgE F17(Hazelnut)(외주)	L71	외주검사	1
+L7484	"Pancreatic elastase,stool(외주)"	L71	외주검사	1
+L74840	Specific IgE F20(Almond)(외주)	L71	외주검사	1
+L74841	Specific IgE F26(Pork)(외주)	L71	외주검사	1
+L74842	Specific IgE F49(Apple)(외주)	L71	외주검사	1
+L74843	Specific IgE F79(Gluten)(외주)	L71	외주검사	1
+L74844	Specific IgE F83(Chicken)(외주)	L71	외주검사	1
+L74845	Specific IgE F85(Celery)(외주)	L71	외주검사	1
+L74846	Specific IgE F253(Pine nuts)(외주)	L71	외주검사	1
+L74847	Specific IgE Hx2(House dust mixes)(외주)	L71	외주검사	1
+L74848	Specific IgE M80(S.enterotoxin A)(외주)	L71	외주검사	1
+L74849	Specific IgE M81(S.enterotoxin B)(외주)	L71	외주검사	1
+L7485	PAPP-A(외주)	L71	외주검사	1
+L74850	Specific IgE MX1(Mold mix)(외주)	L71	외주검사	1
+L74851	Specific IgE Tx5(Tree pollen mixes)(외주)	L71	외주검사	1
+L74852	Specific IgE F201(Pecan nut)(외주)	L71	외주검사	1
+L74853	Specific IgE F202(Cashew nut)(외주)	L71	외주검사	1
+L74854	Specific IgE F203(Pistachio)(외주)	L71	외주검사	1
+L74855	Specific IgE F299(Chestnut)(외주)	L71	외주검사	1
+L74856	Specific IgE RM226(S.Enterotoxin TSST)(외주)	L71	외주검사	1
+L74857	Specific IgE C70(Insulin porcine)(외주)	L71	외주검사	1
+L74858	Specific IgE C71(Insulin bovine)(외주)	L71	외주검사	1
+L74859	Specific IgE C73(Insulin human)(외주)	L71	외주검사	1
+L74860	Specific IgE F36(Coconut)(외주)	L71	외주검사	1
+L74861	Specific IgE F76(락토알부민)(외주)	L71	외주검사	1
+L74862	Specific IgE F77(락토글로불린)(외주)	L71	외주검사	1
+L74863	Specific IgE F78(카제인)(외주)	L71	외주검사	1
+L74864	Iodide(외주)	L71	외주검사	1
+L74865	IgD (외주)	L71	외주검사	1
+L74866	Specific IgE F75(계란노른자)(외주)	L71	외주검사	1
+L74867	Specific IgE_오징어	L71	외주검사	1
+L7487	Aspergillus Ab IgG(Immunoprecipitation)(외주)	L71	외주검사	1
+L74870	Manganese[망간] (외주)	L71	외주검사	1
+L748701	망간(소변)(외주)	L71	외주검사	1
+L74871	Vitamin B1(Thiamine)	L71	외주검사	1
+L74873	"ACP Stain(Acid Phosphatase ,외주)"	L71	외주검사	1
+L74875	HBs Ag 정량(외주)	L71	외주검사	1
+L74876	T-SPOT.TB	L71	외주검사	1
+L74877	QuantiFERON-TB[직원신검](외주)	L71	외주검사	1
+L74878	α-1 Antitrypsin	L71	외주검사	1
+L7488	Total hCG(외주)	L71	외주검사	1
+L74880	HEV Ab IgG(외주)	L71	외주검사	1
+L74881	HEV Ab IgM(외주)	L71	외주검사	1
+L7489	Inhibin-A(외주)	L71	외주검사	1
+L7490	C1q(외주)	L71	외주검사	1
+L74901	Soluble ST2(외주)	L71	외주검사	1
+L74902	Chromogranin A	L71	외주검사	1
+L74903	(1-3)-β-D-Glucan Quantitative Test	L71	외주검사	1
+L74904	Rubella 항체 결합력	L71	외주검사	1
+L74905	Protein S Ag (Free)(외주)	L71	외주검사	1
+L74906	Paraneoplastic Ab	L71	외주검사	1
+L74907	Ganglioside Ab IgM Panel (외주)	L71	외주검사	1
+L74908	Anti-PLA2R IgG	L71	외주검사	1
+L74909	GH	L71	외주검사	1
+L74910	IGF-1	L71	외주검사	1
+L749101	Thyroglobulin	L71	외주검사	1
+L749102	Antithyroglobulin Ab (TG Ab)	L71	외주검사	1
+L749103	Prostate Health Index (PHI)	L71	외주검사	1
+L749104	Total procollagen type 1 N-terminal propeptide (P1NP)	L71	외주검사	1
+L74911	Vitamin A (retinol)(외주)	L71	외주검사	1
+L74912	Vitamin C (Ascorbic Acid)(외주)	L71	외주검사	1
+L7498	Widal test(외주)	L71	외주검사	1
+L7499	Oxalate (24hrs urine)(외주)	L71	외주검사	1
+L74991	Oxalate (random urine)(외주)	L71	외주검사	1
+L3801(그룹)	Neonatal screening (NST)(외주)	L72	분당의뢰검사	1
+L38010	NST	L72	분당의뢰검사	1
+L38012	NST(Galactose)(외주)	L72	분당의뢰검사	1
+L38018	MPS II Hunter(외주)	L72	분당의뢰검사	1
+L38019	MPS VII Sly(외주)	L72	분당의뢰검사	1
+L3802	Newborn Screening by MS/MS (NST 41종)(외주)	L72	분당의뢰검사	1
+L38020	(검진용)NST(Hunter)	L72	분당의뢰검사	1
+L38022	"(검진용)NST(LSD, Lysosomal Storage Disease)"	L72	분당의뢰검사	1
+L3807	Galactokinase (Galactosemia)(외주)	L72	분당의뢰검사	1
+L3808	"UDP-Gal Epimerase (Gal-EP, Galactosemia)(외주)"	L72	분당의뢰검사	1
+L3810	Galactosemia confirm	L72	분당의뢰검사	1
+L3811	FeCl₂(외주)	L72	분당의뢰검사	1
+L3813	Orotic acid(외주)	L72	분당의뢰검사	1
+L3814	MPS screening test(외주)	L72	분당의뢰검사	1
+L3817	Acid-α-glucosidase (Pompe)(외주)	L72	분당의뢰검사	1
+L3818	β-Glucocerebrosidase (Gaucher)(외주)	L72	분당의뢰검사	1
+L3819	Hexoseaminidase (Tay-Sachs)(외주)	L72	분당의뢰검사	1
+L3824	Arylsulfatase A (Metachromatic leukodystrophy)(외주)	L72	분당의뢰검사	1
+L3828	Gal-1-P (Galactosemia)(외주)	L72	분당의뢰검사	1
+L3829	Gal-1-P UT (Galactosemia)(외주)	L72	분당의뢰검사	1
+L3830	마약확진검사 1	L72	분당의뢰검사	1
+L3832	마약확진검사 2	L72	분당의뢰검사	1
+L3833	마약확진검사 3	L72	분당의뢰검사	1
+L3844	α-iduronidase (Hurler/Scheie)(외주)	L72	분당의뢰검사	1
+L3845	α-N-acetylglucosaminidase (Sanfilippo B)(외주)	L72	분당의뢰검사	1
+L3846	β-galactosidase (Morquio B or GM1)(외주)	L72	분당의뢰검사	1
+L3847	Arylsulfatase B (Maroteaux-Lamy)(외주)	L72	분당의뢰검사	1
+L3848	β-glucuronidase (Sly)(외주)	L72	분당의뢰검사	1
+L3849	α-galactosidase A (Fabry)(외주)	L72	분당의뢰검사	1
+L3850	Krabbe (β-Galactocerebrosidase)(외주)	L72	분당의뢰검사	1
+L3856	Morquio A	L72	분당의뢰검사	1
+L3858	Quadruple marker(외주)	L72	분당의뢰검사	1
+L3865	Sialidosis (Neuraminidase)(외주)	L72	분당의뢰검사	1
+L3866	Biotinidase(외주)	L72	분당의뢰검사	1
+L3868	Phenylalanine/Tyrosin panel(외주)	L72	분당의뢰검사	1
+L3878	25(OH) vitamin D(HPLC법)(외주)	L72	분당의뢰검사	1
+L38789	Nicotine Metabolite[금연](분당의뢰)	L72	분당의뢰검사	1
+L50561	Anti-platelet Ab(외주)	L72	분당의뢰검사	1
+L721001	Tryptase	L72	분당의뢰검사	0
+L7221	MMA (Methylmalonic acid)(외주)	L72	분당의뢰검사	0
+L7329	"VMA, quan.(외주)"	L72	분당의뢰검사	1
+L74100	Amino Acid Panel(Plasma)5종목	L72	분당의뢰검사	1
+L74104	Amino Acid Panel(Urine)5종목	L72	분당의뢰검사	1
+L7442	Carnitine 2분획(외주)	L72	분당의뢰검사	1
+L7445	17-OHP	L72	분당의뢰검사	1
+L74451	Clozapine/Norclozapine(외주)	L72	분당의뢰검사	1
+L7447	NST(TSH)(외주)	L72	분당의뢰검사	1
+L7449	TB drug 정량(외주)	L72	분당의뢰검사	1
+L7459	Glucose 6-phosphate Dehyrogenase(외주)	L72	분당의뢰검사	1
+L7470	Amiodarone(외주)	L72	분당의뢰검사	1
+L7471	HVA	L72	분당의뢰검사	1
+L7491	Drug test (Qualitative)[2종이상](외주)	L72	분당의뢰검사	1
+L8305	Lead(RU)	L83	녹색크리닉	0
+L8306	Cadmium(RU)	L83	녹색크리닉	0
+L8307	Total Arsenic(RU)	L83	녹색크리닉	0
+L8308	Mercury(RU)	L83	녹색크리닉	0
+L8311	Hippuric acid(녹색크리닉용)	L83	녹색크리닉	0
+L8312	Methylhippuric acid(녹색크리	L83	녹색크리닉	0
+L8313	Mandelic acid(녹색크리닉용)	L83	녹색크리닉	0
+L8324	Mercury(WB)	L83	녹색크리닉	0
+L8326	Lead(WB)	L83	녹색크리닉	0
+L8327	Cadmium(WB)	L83	녹색크리닉	0
+M3201	Red blood cell (320ml)	M32	수혈혈액요청	0
+M3202	"FFP (Fresh frozen plasma, 320ml)"	M32	수혈혈액요청	0
+M3203	Whole blood (320ml)	M32	수혈혈액요청	0
+M3204	Platelet concentrate (320ml)	M32	수혈혈액요청	0
+M3207	Washed RBC (320ml)	M32	수혈혈액요청	0
+M3208	Cryoprecipitate (320ml)	M32	수혈혈액요청	0
+M3212	Frozen plasma (320ml)	M32	수혈혈액요청	0
+M3213	Buffy coat (320ml)	M32	수혈혈액요청	0
+M3215	Therapeutic leukapheresis	M32	수혈혈액요청	0
+M3216	치료적 혈소판 성분채집술	M32	수혈혈액요청	0
+M3217	Plasmapheresis(C17)	M32	수혈혈액요청	0
+M32173	이중필터혈장여과법(Double Filtration Plasmapheresis)	M32	수혈혈액요청	0
+M3219	Leukocyte depleted RBC (320ml)-Filter오더필요	M32	수혈혈액요청	0
+M3220	Leukocyte depleted platelet (320ml)-Filter오더필요	M32	수혈혈액요청	0
+M3222	"Plateletpheresis (적십자혈액원, 5일보관)"	M32	수혈혈액요청	0
+M3223	"autotransfusion (자가수혈,1회)"	M32	수혈혈액요청	0
+M3224	"autotransfusion (자가수혈,2회이상)"	M32	수혈혈액요청	0
+M3225	RT (방사선조사)	M32	수혈혈액요청	0
+M3226	Bone Marrow Processing (골수조혈모세포채집술)	M32	수혈혈액요청	0
+M3228	DLI (림프구 성분 채집술 (B))	M32	수혈혈액요청	0
+M32282	DLI 림프구성분채집술(C)(M32282)	M32	수혈혈액요청	0
+M3231	"LD Plateletpheresis(LDESP), (본원헌혈실, 5일보관)"	M32	수혈혈액요청	0
+M3241	Red blood cell (400ml)	M32	수혈혈액요청	0
+M3242	"FFP (Fresh frozen plasma, 400ml)"	M32	수혈혈액요청	0
+M3243	Whole blood (400ml)	M32	수혈혈액요청	0
+M3244	Platelet concentrate (400ml)	M32	수혈혈액요청	0
+M3247	Washed RBC (400ml)	M32	수혈혈액요청	0
+M3248	Cryoprecipitate (400ml)	M32	수혈혈액요청	0
+M3252	Frozen plasma (400ml)	M32	수혈혈액요청	0
+M3253	Buffy coat (400ml)	M32	수혈혈액요청	0
+M3254	Leukocyte depleted RBC (400ml)-Filter오더필요	M32	수혈혈액요청	0
+M3255	Leukocyte depleted platelet (400ml)-Filter오더필요	M32	수혈혈액요청	0
+M32581	PBSCM (말초혈액조혈모세포채집술)	M32	수혈혈액요청	0
+M3292	Donor leukapheresis	M32	수혈혈액요청	0
+M3295	Apheresis Red Blood Cell Concentrates (SD-LRDRBCs)	M32	수혈혈액요청	0
+M3297	세척 성분채혈 혈소판	M32	수혈혈액요청	0
+M3298	치료적 적혈구 성분채집술	M32	수혈혈액요청	0
+				376
