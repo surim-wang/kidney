@@ -10,7 +10,7 @@ import cv2
 import numpy as np
 import json
 import os
-os.chdir('D:/MNIST/source')
+os.chdir('D:/kidney/source')
 
 #%%
 #json 파일 읽기전에 원본을 불러와서 비교 준비하기
@@ -139,6 +139,27 @@ for i in range(len(st_python['shapes'])):
     cv2.imwrite('../image/test_result/{}.jpg'.format(i), cropped_image) # 파일 경로 & 명, 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #%% 테두리 입히기 
 import math
 
@@ -209,7 +230,14 @@ for i in range(len(st_python['shapes'])):
             
     img = border_make(cropped_image)
     #이미지 저장하기
-    cv2.imwrite('../image/test_result/{}.jpg'.format(i), img) # 파일 경로 & 명, 
+    cv2.imwrite('../image/test_border/{}.jpg'.format(i), img) # 파일 경로 & 명, 
+    
+    
+    
+    
+    
+    
+    
     
 #%% 이미지 임계값 처리 후 반복문으로 데이터 셋 만들기
 # 임계값 넘으면 완전 블랙 아니면 0으로 이미지 재 처리하기 
@@ -242,7 +270,7 @@ for i in range(len(st_python['shapes'])):
     ret ,img = cv2.threshold(dst,127,255,0)
 
     #이미지 저장하기
-    cv2.imwrite('../image/test_result/{}.jpg'.format(i), img) # 파일 경로 & 명, 
+    cv2.imwrite('../image/test_threshold_result/{}.jpg'.format(i), img) # 파일 경로 & 명, 
 
 #%% MNIST 데이터셋 구조로 만들기
 #MNIST 분석하기
