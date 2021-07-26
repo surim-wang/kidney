@@ -7,6 +7,7 @@ Created on Wed Jun  2 22:31:44 2021
 
 #%%
 import cv2
+import pandas as pd
 import numpy as np
 import json
 import os
@@ -272,9 +273,18 @@ for i in range(len(st_python['shapes'])):
     #이미지 저장하기
     cv2.imwrite('../image/test_threshold_result/{}.jpg'.format(i), img) # 파일 경로 & 명, 
 
+
+
+
+
+
+
+
+
+
 #%% MNIST 데이터셋 구조로 만들기
 #MNIST 분석하기
-train = pd.read_csv("../data/train.csv") #MNIST 데이터셋 (42000, 785) 라벨 포함 1 + 748
+train = pd.read_csv("D:/MNIST/data/train.csv") #MNIST 데이터셋 (42000, 785) 라벨 포함 1 + 748
 
 Y_train = train["label"]
 X_train = train.drop(labels = ["label"],axis = 1)     
@@ -298,13 +308,13 @@ for i in range(3025):
     
     
 #데이터 프레임 컬럼 입력하기
-df= pd.DataFrame(columns= columns_lst)
+df= pd.DataFrame(columns= pixel_lst) # columns_lst
     
 #데이터 프레임 데이터 입력 테스트하기
-data = pd.Series(flat_img)
+data = pd.Series(flat_img[0])
 test =data.values.reshape((1,-1))
 
-df_test = pd.DataFrame(columns= columns_lst, data = test)
+df_test = pd.DataFrame(columns= pixel_lst, data = test) # columns_lst
 df_test = df_test.append(df_test, ignore_index=True)
 
 
@@ -339,7 +349,7 @@ for i in range(len(st_python['shapes'])):
     flat_img = pd.Series(flat_img)
     #이미지 구조 변경
     flat_img = flat_img.values.reshape((1,-1))
-    df2 = pd.DataFrame(columns= columns_lst, data= flat_img)
+    df2 = pd.DataFrame(columns= pixel_lst, data= flat_img) # # columns_lst
     df = df.append(df2, ignore_index=True)
     
 df.to_csv('../data/dataset_test.csv', encoding ='utf-8')
